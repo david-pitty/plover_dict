@@ -8,6 +8,7 @@
 "KWARGS": "^kwargs",
 "-PBT": "{__init__^}",
 "S-RB": "ssh",
+"P-T": "pitty",
 
 "SHR-RB": "{^/^}",
 "SHR*RB": "{^\\^}",
