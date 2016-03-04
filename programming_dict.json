@@ -3,10 +3,14 @@
 "TPHUBGS": "{^tmux ^}",
 "SREU": "{^vi ^}",
 "SREUPL": "{^vim^}",
+"PEUB": "{^pyb ^}",
+"PAO*EUT": "{^python ^}",
 "K-D": "{^cd ^}",
 "S-D": "{^sudo ^}",
 "TKPWEUT": "{^git ^}",
+"KHEBGT": "checkout",
 "S-RB": "{^ssh ^}",
+"H-PT": "http://",
 
 "ETS": "{^etc^}",
 "R-PL": "{^rm ^}",
@@ -68,6 +72,7 @@
 "K-L": "{#Control_L(l)}",
 "KO": "{#Control_L(o)}",
 "SR-PL": "{#Control_L(w)}",
+"K-R": "{#Control_L(r)}",
 
 "KR*L": "{}",
 "KR*L/KR*": "{#Control_L(c)}",
