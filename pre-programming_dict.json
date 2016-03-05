@@ -2,6 +2,7 @@
 # Regular words
 "KHEBGT": "checkout",
 "TKEUBGT": "dict",
+"PHRAPBG": "planck",
 
 # Shell commands
 "TKPWREP": "{^grep ^}",
