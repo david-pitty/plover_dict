@@ -1,20 +1,25 @@
 {
+# Regular words
+"KHEBGT": "checkout",
+"TKEUBGT": "dict",
+
+# Shell commands
 "TKPWREP": "{^grep ^}",
 "PEUB": "{^pyb ^}",
 "PAO*EUT": "{^python ^}",
 "K-D": "{^cd ^}",
 "S-D": "{^sudo ^}",
 "TKPWEUT": "{^git ^}",
-"KHEBGT": "checkout",
 "S-RB": "{^ssh ^}",
-"H-PT": "http://",
 
+# Shell words
+"PA*FP": "apache2",
+"H-PT": "http://",
 "ETS": "{^etc^}",
 "R-PL": "{^rm ^}",
 "SRAR": "{^var^}",
 
-"PA*FP": "apache2",
-
+# Python words
 "TK-F": "{^def}",
 "KHRAS": "{^class}",
 "KHRA*S": "class",
@@ -22,22 +27,32 @@
 "KWARGS": "^kwargs",
 "-PBT": "{__init__^}",
 
+# Username and app info
+"P-T": "{^pitty}",
 "P-T": "{^pitty}",
 "S-R": "{^dpitty}",
 "SAR": "{^ad_dpitty}",
 "SP-R": "{^david-pitty}",
 "PA*P": "{^edss^}",
 
+# Tmux commands
 "TPHUBGS": "{^tmux ^}",
 "KRA": "{#Control_L(a)} {^}",
 
+# Vim commands
 "SREU": "{^vi ^}",
 "SREUPL": "{^vim^}",
-"KH-PBG": "{^c^}",
-"KH-PBGT": "{^ct^}",
-"TPH-RT": "{^i^}",
+#"KH-PBG": "{^c^}",
+#"KH-PBGT": "{^ct^}",
+#"TPH-RT": "{^i^}",
+#"KWR-PBG": "{^y^}",
+#"KWR*PBG": "{^Y^}",
+#"K-T": "{^x^}",
 "SR-PL": "{#Control_L(w)}",
+"K*E": "{#Control_L(w)}",
+"K*E": "{#Control_L(Shift_L(v))}",
 
+# Symbols
 "SHR-RB": "{^/^}",
 "SHR*RB": "{^\\^}",
 "TK-RB": "{^-^}",
@@ -59,6 +74,8 @@
 "TK-RL": "{^$^}",
 "PR-PB": "{^(^}",
 "PR*PB": "{^)^}",
+"P-RPB": "{^(^}",
+"P*RPB": "{^)^}",
 "A*T": "{^@^}",
 "*P": "{^.^}",
 "KP-PL": "{^!^}",
@@ -67,8 +84,10 @@
 "P*RS": "{^&^}",
 "KHR-RB": "{^:^}",
 
+# Copy & Paste
 "K-P": "{#Control_L(c)}",
 "P-FT": "{#Control_L(v)}",
+"K-T": "{#Control_L(x)}",
 
 "SHR-P": "{#Control_L(z)}",
 "W-BG": "{#fg Return}",
@@ -109,6 +128,7 @@
 "H-PL": "{#Home}",
 "TPH-D": "{#End}",
 
+# Currently not working
 "KA*PS": "{#Caps_Lock}",
 "W-L": "{#Super_L(l)}"
 }
