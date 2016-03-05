@@ -1,8 +1,5 @@
 {
 "TKPWREP": "{^grep ^}",
-"TPHUBGS": "{^tmux ^}",
-"SREU": "{^vi ^}",
-"SREUPL": "{^vim^}",
 "PEUB": "{^pyb ^}",
 "PAO*EUT": "{^python ^}",
 "K-D": "{^cd ^}",
@@ -28,7 +25,18 @@
 "P-T": "{^pitty}",
 "S-R": "{^dpitty}",
 "SAR": "{^ad_dpitty}",
+"SP-R": "{^david-pitty}",
 "PA*P": "{^edss^}",
+
+"TPHUBGS": "{^tmux ^}",
+"KRA": "{#Control_L(a)} {^}",
+
+"SREU": "{^vi ^}",
+"SREUPL": "{^vim^}",
+"KH-PBG": "{^c^}",
+"KH-PBGT": "{^ct^}",
+"TPH-RT": "{^i^}",
+"SR-PL": "{#Control_L(w)}",
 
 "SHR-RB": "{^/^}",
 "SHR*RB": "{^\\^}",
@@ -45,8 +53,8 @@
 "KW-L": "=",
 "KW*L": "{^=^}",
 "T-LD": "{~^}",
-"R-T": "{^>^}",
-"HR-T": "{^<^}",
+"R-T": "{^>}",
+"HR-T": "{^<}",
 "H-RB": "{^#^}",
 "TK-RL": "{^$^}",
 "PR-PB": "{^(^}",
@@ -57,12 +65,15 @@
 "P-P": "|",
 "P-RS": "{^%^}",
 "P*RS": "{^&^}",
+"KHR-RB": "{^:^}",
 
-"KRA": "{#Control_L(a)} {^}",
-"SHR-P": "{#Control_L(z)}",
-"*UPB": "{#Control_L(u)}",
 "K-P": "{#Control_L(c)}",
 "P-FT": "{#Control_L(v)}",
+
+"SHR-P": "{#Control_L(z)}",
+"W-BG": "{#fg Return}",
+"*UPB": "{#Control_L(u)}",
+
 "S-F": "{#Control_L(s)}",
 "KR-P": "{#Control_L(p)}",
 "TP-PBD": "{#Control_L(f)}",
@@ -71,7 +82,6 @@
 "K-LS": "{#Control_L(d)}",
 "K-L": "{#Control_L(l)}",
 "KO": "{#Control_L(o)}",
-"SR-PL": "{#Control_L(w)}",
 "K-R": "{#Control_L(r)}",
 
 "KR*L": "{}",
@@ -98,6 +108,7 @@
 "SK-P": "{#Escape}",
 "H-PL": "{#Home}",
 "TPH-D": "{#End}",
+
 "KA*PS": "{#Caps_Lock}",
 "W-L": "{#Super_L(l)}"
 }
