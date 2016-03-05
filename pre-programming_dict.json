@@ -43,15 +43,9 @@
 # Vim commands
 "SREU": "{^vi ^}",
 "SREUPL": "{^vim^}",
-#"KH-PBG": "{^c^}",
-#"KH-PBGT": "{^ct^}",
-#"TPH-RT": "{^i^}",
-#"KWR-PBG": "{^y^}",
-#"KWR*PBG": "{^Y^}",
-#"K-T": "{^x^}",
 "SR-PL": "{#Control_L(w)}",
-"K*E": "{#Control_L(w)}",
-"K*E": "{#Control_L(Shift_L(v))}",
+"K*E": "{#Control_L(e)}",
+"SR-B": "{#Control_L(Shift_L(v))}",
 
 # Symbols
 "SHR-RB": "{^/^}",
