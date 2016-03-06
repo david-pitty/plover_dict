@@ -86,6 +86,8 @@
 "P*RS": "{^&^}",
 # this is a typo on my part, but added it with no spaces
 "KHR-RB": "{^:^}",
+"SKHR-RB": "{^;}",
+"SKHR-PB": "{^;}",
 
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
