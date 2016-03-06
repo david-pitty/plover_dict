@@ -109,6 +109,7 @@
 "SK-P": "{#Escape}",
 "H-PL": "{#Home}",
 "TPH-D": "{#End}",
+"W-L": "{#SUPER_L(l)}",
 
 # Control commands
 "KR*L": "{}",
@@ -133,7 +134,18 @@
 # Sublime Text command
 "KR*L/P*P": "{#Control_L(Shift_L(p))}",
 
-# Currently not working
-"KA*PS": "{#Caps_Lock}",
-"W-L": "{#Super_L(l)}"
+# Modes
+"R-FT": "{MODE:RESET}",
+"KA*PS": "{MODE:CAPS}",
+"STPH-BG": "{MODE:SNAKE}",
+
+# Plover special commands
+"PHR-BG": "{PLOVER:LOOKUP}",
+"KPW-T": "{PLOVER:QUIT}",
+# repeat previous stroke
+"P-": "{*+}",
+# decapitalize previous stroke
+"HR-R": "{*>}",
+# suppress space between previous two strokes
+"TK*LS": "{*!}"
 }
