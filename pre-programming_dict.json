@@ -43,9 +43,16 @@
 # Vim commands
 "SREU": "{^vi ^}",
 "SREUPL": "{^vim^}",
+# vm command for pane navigation
 "SR-PL": "{#Control_L(w)}",
 "K*E": "{#Control_L(e)}",
+# visual mode
 "SR-B": "{#Control_L(Shift_L(v))}",
+"KR-P": "{#Control_L(p)}",
+# toggle nerd tree
+"TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
+"KO": "{#Control_L(o)}",
+"K*EU": "{#Control_L(i)}",
 
 # Symbols
 "SHR-RB": "{^/^}",
@@ -77,6 +84,7 @@
 "P-P": "|",
 "P-RS": "{^%^}",
 "P*RS": "{^&^}",
+# this is a typo on my part, but added it with no spaces
 "KHR-RB": "{^:^}",
 
 # Copy & Paste
@@ -84,20 +92,23 @@
 "P-FT": "{#Control_L(v)}",
 "K-T": "{#Control_L(x)}",
 
+# Shell keybindgins
 "SHR-P": "{#Control_L(z)}",
 "W-BG": "{#fg Return}",
-"*UPB": "{#Control_L(u)}",
-
-"S-F": "{#Control_L(s)}",
-"KR-P": "{#Control_L(p)}",
-"TP-PBD": "{#Control_L(f)}",
-"TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
-"KHR-S": "{#Alt_L(F4)}",
-"K-LS": "{#Control_L(d)}",
 "K-L": "{#Control_L(l)}",
-"KO": "{#Control_L(o)}",
+"*UPB": "{#Control_L(u)}",
 "K-R": "{#Control_L(r)}",
 
+# Windows keybindings
+"S-F": "{#Control_L(s)}",
+"TP-PBD": "{#Control_L(f)}",
+"KHR-S": "{#Alt_L(F4)}",
+"K-LS": "{#Control_L(d)}",
+"SK-P": "{#Escape}",
+"H-PL": "{#Home}",
+"TPH-D": "{#End}",
+
+# Control commands
 "KR*L": "{}",
 "KR*L/KR*": "{#Control_L(c)}",
 "KR*L/SR*": "{#Control_L(v)}",
@@ -116,12 +127,8 @@
 "KR*L/P*": "{#Control_L(p)}",
 "KR*L/*E": "{#Control_L(e)}",
 "KR*L/R*": "{#Control_L(r)}",
-
+# Sublime Text command
 "KR*L/P*P": "{#Control_L(Shift_L(p))}",
-
-"SK-P": "{#Escape}",
-"H-PL": "{#Home}",
-"TPH-D": "{#End}",
 
 # Currently not working
 "KA*PS": "{#Caps_Lock}",
