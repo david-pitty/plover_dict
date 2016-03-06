@@ -104,6 +104,8 @@
 "TP-PBD": "{#Control_L(f)}",
 "KHR-S": "{#Alt_L(F4)}",
 "K-LS": "{#Control_L(d)}",
+"KR-T": "{#Control_L(t)}",
+"KR*T": "{#Control_L(Shift_L(t))}",
 "SK-P": "{#Escape}",
 "H-PL": "{#Home}",
 "TPH-D": "{#End}",
@@ -127,6 +129,7 @@
 "KR*L/P*": "{#Control_L(p)}",
 "KR*L/*E": "{#Control_L(e)}",
 "KR*L/R*": "{#Control_L(r)}",
+
 # Sublime Text command
 "KR*L/P*P": "{#Control_L(Shift_L(p))}",
 
