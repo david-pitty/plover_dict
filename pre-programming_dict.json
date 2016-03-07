@@ -3,14 +3,16 @@
 "KHEBGT": "checkout",
 "TKEUBGT": "dict",
 "PHRAPBG": "planck",
+"TKEUFT": "dist",
+"TUPL": "tuple",
 
 # Shell commands
-"TKPWREP": "{^grep ^}",
-"PEUB": "{^pyb ^}",
-"PAO*EUT": "{^python ^}",
+"TKPWREP": "grep",
+"S-D": "sudo",
+"PAO*EUT": "python",
+"PEUB": "pyb",
+"TKPWEUT": "git",
 "K-D": "{^cd ^}",
-"S-D": "{^sudo ^}",
-"TKPWEUT": "{^git ^}",
 "S-RB": "{^ssh ^}",
 
 # Shell words
@@ -88,6 +90,7 @@
 "KHR-RB": "{^:^}",
 "SKHR-RB": "{^;}",
 "SKHR-PB": "{^;}",
+"H-F": "{^?}",
 
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
@@ -117,10 +120,10 @@
 "W-D/3": "{#Super_L(3)}",
 "W-D/4": "{#Super_L(4)}",
 "W-D/5": "{#Super_L(5)}",
-"W-D/6": "{#Super_L(6)}",
-"W-D/7": "{#Super_L(7)}",
-"W-D/8": "{#Super_L(8)}",
-"W-D/9": "{#Super_L(9)}",
+"W-D/-6": "{#Super_L(6)}",
+"W-D/-7": "{#Super_L(7)}",
+"W-D/-8": "{#Super_L(8)}",
+"W-D/-9": "{#Super_L(9)}",
 # open file explorer
 "W-D/*E": "{#Super_L(e)}",
 
