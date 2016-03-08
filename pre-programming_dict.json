@@ -44,7 +44,7 @@
 
 # Vim commands
 "SREU": "{^vi ^}",
-"SREUPL": "{^vim^}",
+"SREUPL": "vim",
 # vm command for pane navigation
 "SR-PL": "{#Control_L(w)}",
 "K*E": "{#Control_L(e)}",
