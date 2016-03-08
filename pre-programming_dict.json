@@ -1,5 +1,6 @@
 {
 # Regular words
+"SPART": "separate",
 "KHEBGT": "checkout",
 "TKEUBGT": "dict",
 "PHRAPBG": "planck",
@@ -31,8 +32,7 @@
 "-PBT": "{__init__^}",
 
 # Username and app info
-"P-T": "{^pitty}",
-"P-T": "{^pitty}",
+"P-T": "pitty",
 "S-R": "{^dpitty}",
 "SAR": "{^ad_dpitty}",
 "SP-R": "{^david-pitty}",
