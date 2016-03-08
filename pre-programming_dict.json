@@ -48,7 +48,8 @@
 "SREUPL": "vim",
 # vm command for pane navigation
 "SR-PL": "{#Control_L(w)}",
-"K*E": "{#Control_L(e)}",
+"KRE": "{#Control_L(e)}",
+"KR-BG": "{#Control_L(k)}",
 # visual mode
 "SR-B": "{#Control_L(v)}",
 # previous & next
@@ -111,7 +112,7 @@
 # Shell keybindgins
 "SHR-P": "{#Control_L(z)}",
 "K-L": "{#Control_L(l)}",
-"*UPB": "{#Control_L(u)}",
+"KRU": "{#Control_L(u)}",
 "K-R": "{#Control_L(r)}",
 # kill session
 "K-LS": "{#Control_L(d)}",
