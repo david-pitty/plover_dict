@@ -6,6 +6,7 @@
 "PHRAPBG": "planck",
 "TKEUFT": "dist",
 "TUPL": "tuple",
+"AOU/TEUL": "util",
 
 # Shell commands
 "TKPWREP": "grep",
@@ -166,6 +167,8 @@
 # Plover special commands
 "PHR-BG": "{PLOVER:LOOKUP}",
 "KPW-T": "{PLOVER:QUIT}",
+"PHROLG": "{PLOVER:TOGGLE}",
+"TR-PBS": "{PLOVER:ADD_TRANSLATION}",
 # repeat previous stroke
 "P-": "{*+}",
 # decapitalize previous stroke
