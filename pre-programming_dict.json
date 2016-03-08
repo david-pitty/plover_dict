@@ -118,7 +118,6 @@
 
 # Windows keybindings
 "S-F": "{#Control_L(s)}",
-"S-PBD": "{#Alt_L(s)}",
 "TP-PBD": "{#Control_L(f)}",
 "KHR-S": "{#Alt_L(F4)}",
 "KR-T": "{#Control_L(t)}",
@@ -140,6 +139,13 @@
 # open file explorer
 "W-D/*E": "{#Super_L(e)}",
 "W-D/-D": "{#Super_L(d)}",
+
+# Outlook
+# send email
+"S-PBD": "{#Alt_L(s)}",
+# read email
+"R-D": "{#Control_L(q)}",
+# use find for forward email
 
 # Control commands
 "KR*L": "{}",
