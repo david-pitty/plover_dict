@@ -1,0 +1,15 @@
+{
+"AU/T*": "auth",
+"E/PHAEUL": "email",
+"E/THO": "etho",
+"HR*UFRPB": "lunch",
+"OBG": "ok",
+"PRO/KPEU": "proxy",
+"PROBGS/AOE": "proxy",
+"PROBGS/EU": "proxy",
+"PW*EU/TPHREU": "binary",
+"PWAEU/SEUBG": "basic",
+"SEUR/KWEUT": "circuit",
+"TKE/KRAEURT": "decorator",
+"TKPW/PHAEUL": "gmail"
+}
