@@ -8,6 +8,8 @@
 "TUPL": "tuple",
 "AOU/TEUL": "util",
 "SR-BG": "src",
+"H-PT": "http",
+"H*PT": "http://",
 
 # Shell commands
 "TKPWREP": "grep",
@@ -16,13 +18,12 @@
 "PEUB": "pyb",
 "TKPWEUT": "git",
 "K-D": "{^cd ^}",
+"R-PL": "{^rm ^}",
 "S-RB": "{^ssh ^}",
 
 # Shell words
 "PA*FP": "apache2",
-"H-PT": "http://",
 "ETS": "{^etc^}",
-"R-PL": "{^rm ^}",
 "SRAR": "{^var^}",
 
 # Python words
