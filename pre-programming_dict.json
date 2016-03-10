@@ -7,6 +7,7 @@
 "TKEUFT": "dist",
 "TUPL": "tuple",
 "AOU/TEUL": "util",
+"SR-BG": "src",
 
 # Shell commands
 "TKPWREP": "grep",
@@ -50,6 +51,7 @@
 "SR-PL": "{#Control_L(w)}",
 "KRE": "{#Control_L(e)}",
 "KR-BG": "{#Control_L(k)}",
+"KR-D": "{#Control_L(d)}",
 # visual mode
 "SR-B": "{#Control_L(v)}",
 # previous & next
@@ -59,6 +61,7 @@
 "TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
 "KO": "{#Control_L(o)}",
 "K*EU": "{#Control_L(i)}",
+"KR-G": "{#Control_L(g)}",
 # for easier save and quit
 "*Z": "{&Z}",
 
@@ -89,8 +92,8 @@
 "TK-RL": "{^$^}",
 "PR-PB": "{^(^}",
 "PR*PB": "{^)^}",
-"P-RPB": "{^(^}",
-"P*RPB": "{^)^}",
+"SPR-PB": "{^ (^}",
+"SPR*PB": "{^ )^}",
 "A*T": "{^@^}",
 "*P": "{^.^}",
 "*R": "{^,^}",
@@ -100,8 +103,7 @@
 "P*RS": "{^&^}",
 # this is a typo on my part, but added it with no spaces
 "KHR-RB": "{^:^}",
-"SKHR-RB": "{^;}",
-"SKHR-PB": "{^;}",
+"KHR*PB": "{^;}",
 "H-F": "{^?}",
 
 # Copy & Paste
