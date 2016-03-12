@@ -10,6 +10,8 @@
 "SR-BG": "src",
 "H-PT": "http",
 "H*PT": "http://",
+"A*RT": "attr",
+"L-L": "lol",
 
 # Shell commands
 "TKPWREP": "grep",
@@ -18,13 +20,15 @@
 "PEUB": "pyb",
 "TKPWEUT": "git",
 "K-D": "{^cd ^}",
-"R-PL": "{^rm ^}",
+"R-PL": "{rm ^}",
+"PH-F": "{^mv ^}",
 "S-RB": "{^ssh ^}",
 
 # Shell words
 "PA*FP": "apache2",
 "ETS": "{^etc^}",
 "SRAR": "{^var^}",
+"AO*URS": "{^usr^}",
 
 # Python words
 "TK-F": "{^def}",
@@ -46,7 +50,7 @@
 "KRA": "{#Control_L(a)} {^}",
 
 # Vim commands
-"SREU": "{^vi ^}",
+"SREU": "{vi ^}",
 "SREUPL": "vim",
 # vm command for pane navigation
 "SR-PL": "{#Control_L(w)}",
@@ -58,6 +62,7 @@
 # previous & next
 "KR-P": "{#Control_L(p)}",
 "KR-PB": "{#Control_L(n)}",
+"KR*PB": "{#Control_L(Shift_L(n))}",
 # toggle nerd tree
 "TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
 "KO": "{#Control_L(o)}",
@@ -68,7 +73,9 @@
 
 # Symbols
 "SHR-RB": "{^/^}",
+"SHR-RBS": "{^ /^}",
 "SHR*RB": "{^\\^}",
+"SHR*RBS": "{^ \\^}",
 "TK-RB": "{^-^}",
 "STK-RB": "{-^}",
 "TK*RB": "{^_^}",
@@ -81,8 +88,12 @@
 "ST*RS": "{^ *^}",
 "KPWR-BGT": "{^}\\{{^}",
 "KPWR*BGT": "{^}\\}{^}",
-"SKPWR-BGT": "\\{{^}",
-"SKPWR*BGT": "\\}{^}",
+"SKPWR-BGT": "{^} \\{{^}",
+"SKPWR*BGT": "{^} \\}{^}",
+"PWR-BGT": "{^}[{^}",
+"PWR*BGT": "{^}]{^}",
+"SPWR-BGT": "{^} [{^}",
+"SPWR*BGT": "{^} ]{^}",
 "H*T": "{^}^{^}",
 "KW-L": "=",
 "KW*L": "{^=^}",
@@ -123,6 +134,8 @@
 # Windows keybindings
 "S-F": "{#Control_L(s)}",
 "TP-PBD": "{#Control_L(f)}",
+"TPH-BGT": "{#Control_L(Tab)}",
+"TPH*BGT": "{#Control_L(Shift_L(Tab))}",
 "KHR-S": "{#Alt_L(F4)}",
 "KR-T": "{#Control_L(t)}",
 "KR*T": "{#Control_L(Shift_L(t))}",

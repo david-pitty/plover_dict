@@ -1,15 +1,22 @@
 {
+"AOU/PWUPBT": "ubuntu",
 "AU/T*": "auth",
 "E/PHAEUL": "email",
 "E/THO": "etho",
+"EUPBS/TAUL": "install",
 "HR*UFRPB": "lunch",
 "OBG": "ok",
+"P*EPL": "people",
+"PEPL": "pem",
 "PRO/KPEU": "proxy",
 "PROBGS/AOE": "proxy",
 "PROBGS/EU": "proxy",
 "PW*EU/TPHREU": "binary",
 "PWAEU/SEUBG": "basic",
 "SEUR/KWEUT": "circuit",
+"SR*ERT": "vert",
+"TEPL": "pem",
 "TKE/KRAEURT": "decorator",
+"TKEUR": "dir",
 "TKPW/PHAEUL": "gmail"
 }
