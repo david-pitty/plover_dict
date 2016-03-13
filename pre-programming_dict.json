@@ -11,7 +11,7 @@
 "H-PT": "http",
 "H*PT": "http://",
 "A*RT": "attr",
-"L-L": "lol",
+"HR-L": "lol",
 
 # Shell commands
 "TKPWREP": "grep",
@@ -185,7 +185,7 @@
 "KR*L/R*": "{#Control_L(r)}",
 
 # Sublime Text command
-"KR*L/P*P": "{#Control_L(Shift_L(p))}",
+"KR*P": "{#Control_L(Shift_L(p))}",
 
 # Modes
 "R-FT": "{MODE:RESET}",

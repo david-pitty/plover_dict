@@ -13,10 +13,18 @@
 "PROBGS/EU": "proxy",
 "PW*EU/TPHREU": "binary",
 "PWAEU/SEUBG": "basic",
+"PWR-B": "brb",
 "SEUR/KWEUT": "circuit",
 "SR*ERT": "vert",
+"SREPB": "env",
+"STUS": "status",
+"T*PL": "tmp",
+"T-FT": "tst",
 "TEPL": "pem",
 "TKE/KRAEURT": "decorator",
 "TKEUR": "dir",
-"TKPW/PHAEUL": "gmail"
+"TKPW/PHAEUL": "gmail",
+"TKPWHR-L": "glol",
+"TPH-PL": "npm",
+"UP/TKAEUTD": "updated"
 }
