@@ -67,7 +67,7 @@
 "KR*PB": "{#Control_L(Shift_L(n))}",
 # toggle nerd tree
 "TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
-"KRO*": "{#Control_L(o)}",
+"KRO*E": "{#Control_L(o)}",
 "K*EU": "{#Control_L(i)}",
 "KR-G": "{#Control_L(g)}",
 # for easier save and quit
@@ -207,6 +207,13 @@
 "P-": "{*+}",
 # decapitalize previous stroke
 "HR-R": "{*>}",
+# capitalize last word
+"HR*R": "{*-|}",
+"*URP": "{*<}",
 # suppress space between previous two strokes
-"TK*LS": "{*!}"
+"TK*LS": "{*!}",
+# add space between previous two strokes
+"SP-S": "{*?}",
+# toggle star on last stoke
+"TK-LG": "{*}"
 }

@@ -17,6 +17,7 @@
 "PROBGS/EU": "proxy",
 "PW*EU/TPHREU": "binary",
 "PWAEU/SEUBG": "basic",
+"PWAOUPBT": "ubuntu",
 "PWR-B": "brb",
 "S*EUS": "sys",
 "SEUR/KWEUT": "circuit",
@@ -33,6 +34,7 @@
 "TKEUR": "dir",
 "TKPW/PHAEUL": "gmail",
 "TKPWHR-L": "glol",
+"TO*LG": "toggle",
 "TPH-PL": "npm",
 "UP/TKAEUTD": "updated",
 "URL": "url"
