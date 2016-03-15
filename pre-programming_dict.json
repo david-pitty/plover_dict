@@ -10,13 +10,14 @@
 "SR-BG": "src",
 "H-PT": "http",
 "H*PT": "http://",
+"H*PTS": "https://",
 "A*RT": "attr",
 "HR-L": "lol",
 
 # Shell commands
 "TKPWREP": "grep",
 "S-D": "sudo",
-"PAO*EUT": "python",
+"PAO*EUT": "{python ^}",
 "PEUB": "pyb",
 "TKPWEUT": "git",
 "K-D": "{^cd ^}",
@@ -54,18 +55,19 @@
 "SREUPL": "vim",
 # vm command for pane navigation
 "SR-PL": "{#Control_L(w)}",
-"KRE": "{#Control_L(e)}",
+"KR*E": "{#Control_L(e)}",
 "KR-BG": "{#Control_L(k)}",
+"KR-B": "{#Control_L(b)}",
 "KR-D": "{#Control_L(d)}",
 # visual mode
 "SR-B": "{#Control_L(v)}",
 # previous & next
-"KR-P": "{#Control_L(p)}",
+"KPR": "{#Control_L(p)}",
 "KR-PB": "{#Control_L(n)}",
 "KR*PB": "{#Control_L(Shift_L(n))}",
 # toggle nerd tree
 "TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
-"KO": "{#Control_L(o)}",
+"KRO*": "{#Control_L(o)}",
 "K*EU": "{#Control_L(i)}",
 "KR-G": "{#Control_L(g)}",
 # for easier save and quit
@@ -92,8 +94,8 @@
 "SKPWR*BGT": "{^} \\}{^}",
 "PWR-BGT": "{^}[{^}",
 "PWR*BGT": "{^}]{^}",
-"SPWR-BGT": "{^} [{^}",
-"SPWR*BGT": "{^} ]{^}",
+"SPWR-BGT": "[{^}",
+"SPWR*BGT": "]{^}",
 "H*T": "{^}^{^}",
 "KW-L": "=",
 "KW*L": "{^=^}",
@@ -137,6 +139,7 @@
 "TPH-BGT": "{#Control_L(Tab)}",
 "TPH*BGT": "{#Control_L(Shift_L(Tab))}",
 "KHR-S": "{#Alt_L(F4)}",
+"T-BS": "{#Alt_L(Control_L(Tab))}",
 "KR-T": "{#Control_L(t)}",
 "KR*T": "{#Control_L(Shift_L(t))}",
 "SK-P": "{#Escape}",
@@ -185,7 +188,7 @@
 "KR*L/R*": "{#Control_L(r)}",
 
 # Sublime Text command
-"KR*P": "{#Control_L(Shift_L(p))}",
+"KPR*": "{#Control_L(Shift_L(p))}",
 
 # Modes
 "R-FT": "{MODE:RESET}",
