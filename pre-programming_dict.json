@@ -90,12 +90,12 @@
 "ST*RS": "{^ *^}",
 "KPWR-BGT": "{^}\\{{^}",
 "KPWR*BGT": "{^}\\}{^}",
-"SKPWR-BGT": "{^} \\{{^}",
-"SKPWR*BGT": "{^} \\}{^}",
+"SKPWR-BGT": "{^ \\{}{^}",
+"SKPWR*BGT": "{^ \\}}{^}",
 "PWR-BGT": "{^}[{^}",
 "PWR*BGT": "{^}]{^}",
-"SPWR-BGT": "[{^}",
-"SPWR*BGT": "]{^}",
+"SPWR-BGT": "{^ [^}",
+"SPWR*BGT": "{^ ]^}",
 "H*T": "{^}^{^}",
 "KW-L": "=",
 "KW*L": "{^=^}",
@@ -136,8 +136,8 @@
 # Windows keybindings
 "S-F": "{#Control_L(s)}",
 "TP-PBD": "{#Control_L(f)}",
-"TPH-BGT": "{#Control_L(Tab)}",
-"TPH*BGT": "{#Control_L(Shift_L(Tab))}",
+"TPH-BGS": "{#Control_L(Tab)}",
+"TPH*BGS": "{#Control_L(Shift_L(Tab))}",
 "KHR-S": "{#Alt_L(F4)}",
 "T-BS": "{#Alt_L(Control_L(Tab))}",
 "KR-T": "{#Control_L(t)}",
@@ -193,9 +193,15 @@
 # Modes
 "R-FT": "{MODE:RESET}",
 "KA*PS": "{MODE:CAPS}",
-"STPH-BG": "{MODE:SNAKE}",
-"T-LT": "{MODE:TITLE}",
-"K-PL": "{MODE:CAMEL}",
+# don't snake first word
+"STPH-BG": "{^ ^} {MODE:SNAKE} {^}",
+"STPH*BG": "{MODE:SNAKE}",
+# make first word capitalized
+"T-LT": "{MODE:TITLE} {-|}",
+# make first word capitalized
+"K-PL": "{MODE:CAMEL} {-|}",
+# Pascal casing
+"K*PL": "{MODE:CAMEL}",
 "TK-RBS": "{MODE:SET_SPACE:-}",
 
 # Plover special commands
