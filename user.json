@@ -1,4 +1,5 @@
 {
+"A/WER": "aware",
 "AL/WAEUS": "always",
 "AOU/PWUPBT": "ubuntu",
 "ART/TP-BGT/REU": "artifactory",
@@ -6,7 +7,10 @@
 "E/PHAEUL": "email",
 "E/THO": "etho",
 "EUPBS/TAUL": "install",
+"EUPBS/TED": "instead",
+"HR*EULT": "little",
 "HR*UFRPB": "lunch",
+"KAEFP": "cache",
 "KROPB": "cron",
 "OBG": "ok",
 "P*EPL": "people",
@@ -31,11 +35,13 @@
 "T-FT": "tst",
 "TKE/KRAEURT": "decorator",
 "TKEB/KWRAPB": "debian",
+"TKEPBT/TPEU": "identify",
 "TKEUR": "dir",
 "TKPW/PHAEUL": "gmail",
 "TKPWHR-L": "glol",
 "TO*LG": "toggle",
 "TPH-PL": "npm",
+"TPHR*UBGS": "linux",
 "UP/TKAEUTD": "updated",
 "URL": "url"
 }

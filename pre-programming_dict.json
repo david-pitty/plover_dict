@@ -59,6 +59,7 @@
 "KR-BG": "{#Control_L(k)}",
 "KR-B": "{#Control_L(b)}",
 "KR-D": "{#Control_L(d)}",
+"KR-F": "{#Control_L(f)}",
 # visual mode
 "SR-B": "{#Control_L(v)}",
 # previous & next
@@ -130,6 +131,7 @@
 "K-L": "{#Control_L(l)}",
 "KRU": "{#Control_L(u)}",
 "K-R": "{#Control_L(r)}",
+"K*R": "{#Control_L(Shift_L(r))}",
 # kill session
 "K-LS": "{#Control_L(d)}",
 
@@ -159,6 +161,7 @@
 # open file explorer
 "W-D/*E": "{#Super_L(e)}",
 "W-D/-D": "{#Super_L(d)}",
+"W-RD": "{#Super_L(r)}",
 
 # Outlook
 # send email
@@ -198,10 +201,10 @@
 "STPH*BG": "{MODE:SNAKE}",
 # make first word capitalized
 "T-LT": "{MODE:TITLE} {-|}",
-# make first word capitalized
+# make first word capitalized for Pascal casing
 "K-PL": "{MODE:CAMEL} {-|}",
-# Pascal casing
-"K*PL": "{MODE:CAMEL}",
+# regular Camel casing
+# "K*PL": "{MODE:CAMEL}",
 "TK-RBS": "{MODE:SET_SPACE:-}",
 
 # Plover special commands
