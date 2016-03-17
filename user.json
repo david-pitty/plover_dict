@@ -8,9 +8,11 @@
 "E/THO": "etho",
 "EUPBS/TAUL": "install",
 "EUPBS/TED": "instead",
+"EUPS/TAL": "install",
 "HR*EULT": "little",
 "HR*UFRPB": "lunch",
 "KAEFP": "cache",
+"KHR*EU": "cli",
 "KROPB": "cron",
 "OBG": "ok",
 "P*EPL": "people",
@@ -25,6 +27,7 @@
 "PWR-B": "brb",
 "S*EUS": "sys",
 "SEUR/KWEUT": "circuit",
+"SHA": "sha",
 "SR*ERT": "vert",
 "SRARBL": "variable",
 "SREPB": "env",
@@ -43,5 +46,6 @@
 "TPH-PL": "npm",
 "TPHR*UBGS": "linux",
 "UP/TKAEUTD": "updated",
-"URL": "url"
+"URL": "url",
+"WOD": "word"
 }
