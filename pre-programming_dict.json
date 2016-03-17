@@ -54,7 +54,7 @@
 "SREU": "{vi ^}",
 "SREUPL": "vim",
 # vm command for pane navigation
-"SR-PL": "{#Control_L(w)}",
+"SR-PL": "{#Control_L(w)} {^}",
 "KR*E": "{#Control_L(e)}",
 "KR-BG": "{#Control_L(k)}",
 "KR-B": "{#Control_L(b)}",
@@ -202,7 +202,7 @@
 # make first word capitalized
 "T-LT": "{MODE:TITLE} {-|}",
 # make first word capitalized for Pascal casing
-"K-PL": "{MODE:CAMEL} {-|}",
+"K-PL": "{^ ^} {MODE:CAMEL} {-|}",
 # regular Camel casing
 # "K*PL": "{MODE:CAMEL}",
 "TK-RBS": "{MODE:SET_SPACE:-}",
