@@ -120,6 +120,7 @@
 "KHR-RB": "{^:^}",
 "KHR*PB": "{^;}",
 "H-F": "{^?}",
+"PHR-S": "+",
 
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
