@@ -1,6 +1,8 @@
 {
 "A/WER": "aware",
+"AEU/TKPWEPBT": "agent",
 "AL/WAEUS": "always",
+"AO*ULT": "util",
 "AOU/PWUPBT": "ubuntu",
 "ART/TP-BGT/REU": "artifactory",
 "AU/T*": "auth",
@@ -12,10 +14,12 @@
 "HR*EUFT": "list",
 "HR*EULT": "little",
 "HR*UFRPB": "lunch",
+"KA/PHEL": "camel",
 "KAEFP": "cache",
 "KHR*EU": "cli",
 "KROPB": "cron",
 "OBG": "ok",
+"OE": "oh",
 "OR/SKWREUPB": "origin",
 "P*EPL": "people",
 "PA/PWHRO": "Pablo",
@@ -51,5 +55,8 @@
 "TPHR*UBGS": "linux",
 "UP/TKAEUTD": "updated",
 "URL": "url",
-"WOD": "word"
+"W-L": "will",
+"WO/REUS": "worries",
+"WOD": "word",
+"WOR/REUS": "worries"
 }

@@ -47,7 +47,7 @@
 "PA*P": "{^edss^}",
 
 # Tmux commands
-"TPHUBGS": "{^tmux ^}",
+"TPHUBGS": "tmux",
 "KRA": "{#Control_L(a)} {^}",
 
 # Vim commands
@@ -204,7 +204,7 @@
 # make first word capitalized for Pascal casing
 "K-PL": "{^ ^} {MODE:CAMEL} {-|}",
 # regular Camel casing
-# "K*PL": "{MODE:CAMEL}",
+"K*PL": "{MODE:CAMEL}",
 "TK-RBS": "{MODE:SET_SPACE:-}",
 
 # Plover special commands
