@@ -122,6 +122,12 @@
 "H-F": "{^?}",
 "PHR-S": "+",
 
+# Lost keys
+"T-B": "{#Tab}",
+"W-PBD": "{#Super_L}",
+# currently not working
+"TKPW-P": "{#Control_L(Alt_L(Tab))}",
+
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
 "P-FT": "{#Shift_L(Insert)}",
@@ -142,7 +148,6 @@
 "TPH-BGS": "{#Control_L(Tab)}",
 "TPH*BGS": "{#Control_L(Shift_L(Tab))}",
 "KHR-S": "{#Alt_L(F4)}",
-"T-BS": "{#Alt_L(Control_L(Tab))}",
 "KR-T": "{#Control_L(t)}",
 "KR*T": "{#Control_L(Shift_L(t))}",
 "SK-P": "{#Escape}",
