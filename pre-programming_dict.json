@@ -35,8 +35,8 @@
 "TK-F": "{^def}",
 "KHRAS": "{^class}",
 "KHRA*S": "class",
-"ARGS": "{^args}",
-"KWARGS": "{^kwargs}",
+"ARGS": "args",
+"KWARGS": "kwargs",
 "-PBT": "{__init__^}",
 
 # Username and app info
@@ -116,8 +116,10 @@
 "KP-PL": "{^!^}",
 "P-P": "|",
 "P-RS": "{^%^}",
+"SP-RS": "{^ %}",
 "P*RS": "{^&^}",
 # this is a typo on my part, but added it with no spaces
+"KHR-PB": "{^:}",
 "KHR-RB": "{^:^}",
 "KHR*PB": "{^;}",
 "H-F": "{^?}",
@@ -156,6 +158,8 @@
 "H-PL": "{#Home}",
 "TPH-D": "{#End}",
 "PW*FP": "{#Delete}",
+# suppress space after return
+"R-R": "{#Return} {^}",
 # open apps
 "W-D": "{}",
 "W-D/1": "{#Super_L(1)}",
@@ -213,7 +217,10 @@
 # make first word capitalized for Pascal casing
 "K-PL": "{^ ^} {MODE:CAMEL} {-|}",
 # regular Camel casing
-"K*PL": "{MODE:CAMEL}",
+"K*PL": "{^ ^} {MODE:CAMEL}",
+# suppressed space camel casing
+"SK*PL": "{MODE:CAMEL}",
+# dash delimited
 "TK-RBS": "{MODE:SET_SPACE:-}",
 
 # Plover special commands
