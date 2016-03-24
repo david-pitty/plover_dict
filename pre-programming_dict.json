@@ -125,6 +125,7 @@
 
 # Lost keys
 "T-B": "{#Tab}",
+"T*B": "{#Shift_L(Tab)}",
 "W-PBD": "{#Super_L}",
 # currently not working
 "T-BZ": "{#Control_L(Alt_L(Tab))}",
@@ -154,6 +155,7 @@
 "SK-P": "{#Escape}",
 "H-PL": "{#Home}",
 "TPH-D": "{#End}",
+"PW*FP": "{#Delete}",
 # open apps
 "W-D": "{}",
 "W-D/1": "{#Super_L(1)}",
