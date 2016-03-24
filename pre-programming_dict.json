@@ -126,7 +126,7 @@
 "T-B": "{#Tab}",
 "W-PBD": "{#Super_L}",
 # currently not working
-"TKPW-P": "{#Control_L(Alt_L(Tab))}",
+"T-BZ": "{#Control_L(Alt_L(Tab))}",
 
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
