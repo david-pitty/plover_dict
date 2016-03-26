@@ -1,4 +1,7 @@
 {
+# Prefix/Suffix
+"PRE": "{pre^}",
+
 # Regular words
 "SPART": "separate",
 "KHEBGT": "checkout",
@@ -115,6 +118,7 @@
 "*P": "{^.^}",
 "*R": "{^,^}",
 "KP-PL": "{^!^}",
+"KP*PL": "{!}",
 "P-P": "|",
 "P-RS": "{^%^}",
 "SP-RS": "{^ %}",
@@ -161,6 +165,8 @@
 "PW*FP": "{#Delete}",
 # suppress space after return
 "R-R": "{#Return} {^}",
+# return for writing (first word capitalized)
+"R*R": "{#Return} {^} {-|}",
 # open apps
 "W-D": "{}",
 "W-D/1": "{#Super_L(1)}",
