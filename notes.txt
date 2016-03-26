@@ -1,22 +1,3 @@
-F: In addition to the 'f' sound, this key is also used to indicate the 'v' sound (and sometimes 's', as you'll see in Lesson 2: Steno Order).
-G: In addition to the hard 'g' sound used in words like 'hug' and 'rag', this key may also be used to indicate the 'ing' sound, in words like 'using' and 'holding'.
-
-Traditional long and short vowels in English orthography
-Letter	      "Short" "Long"
-A a	/æ/	/eɪ/	mat  / mate
-E e	/ɛ/	/iː/	pet  / Pete
-I i	/ɪ/	/aɪ/	twin / twine
-O o	/ɒ/	/oʊ/	not  / note
-U u	/ʌ/	/juː/	cub  / cube
-
-
-https://en.wikipedia.org/wiki/Help:IPA_for_English
-
-E is for [EH]
-I is for [IH]
-U is for [short A]
-
-https://sites.google.com/site/ploverdoc/lesson-3-english-sounds/3A-vowels/3a-2-long-vowels
 Long Vowels
 AEU: This is used for the 'a' sound in words like 'grape' and 'saint'  			[EI]
 AOE: This is used for the 'ee' sound in words like 'seen' and 'preach' 			[EEEE]
@@ -37,6 +18,15 @@ M on the right is used for LM sounds as well
 
 -ment -> -PLT
 example: increment, stoked EUPB/KREPLT
+
+-le (ending sound) -> -L
+example: freckle, stroked TPREBG/-L
+
+-mal ending words -> ...L
+example: normal, stroked TPHOL or formal, stroked TPORL
+
+-tious ending words -> ...RBS
+example: pretentious, stoked PRE/TERBS or ambitious, stoked APL/PWEURBS
 
 -FPB -> for "sn" sounds should be stroked with middle and angular fingers
 example: listen, stroked HREUFPB
