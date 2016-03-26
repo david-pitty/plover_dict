@@ -14,6 +14,9 @@ OEU: This is used for the 'oi' sound in words like 'toil' and 'ploy'			[OI]
 
 M on the right is used for LM sounds as well
 
+ex- -> EBGS/... or SK-...
+example: exterminate, stoked EBGS/TERPL/TPHAEUT or exclamation, stroked SKHRAGS
+
 -ically -> KHREU
 
 -ment -> -PLT
