@@ -133,9 +133,8 @@
 # Lost keys
 "T-B": "{#Tab}",
 "T*B": "{#Shift_L(Tab)}",
-"W-PBD": "{#Super_L}",
 # currently not working
-"T-BZ": "{#Control_L(Alt_L(Tab))}",
+#"T-BZ": "{#Control_L(Alt_L(Tab))}",
 
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
@@ -182,6 +181,11 @@
 "W-D/*E": "{#Super_L(e)}",
 "W-D/-D": "{#Super_L(d)}",
 "W-RD": "{#Super_L(r)}",
+
+# Linux keybindings
+"T-PL": "{#Control_L(Alt_L(t))}",
+"T-BZ": "{#Super_L(w)}",
+"W-PBD": "{#Super_L(s)}",
 
 # Outlook
 # send email
