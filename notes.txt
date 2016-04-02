@@ -33,3 +33,6 @@ example: pretentious, stoked PRE/TERBS or ambitious, stoked APL/PWEURBS
 
 -FPB -> for "sn" sounds should be stroked with middle and angular fingers
 example: listen, stroked HREUFPB
+
+-king -> ...-G
+example: walking, talking, looking -> instead of HRAOBG/-G, omit the -B (that forms the K sound) => HRAOG
