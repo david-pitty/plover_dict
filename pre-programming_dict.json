@@ -127,6 +127,7 @@
 "KHR-PB": "{^:}",
 "KHR-RB": "{^:^}",
 "KHR*PB": "{^;}",
+"KHR*RB": "{^;}",
 "H-F": "{^?}",
 "PHR-S": "+",
 
@@ -152,7 +153,6 @@
 
 # Windows keybindings
 "S-F": "{#Control_L(s)}",
-"TP-PBD": "{#Control_L(f)}",
 "TPH-BGS": "{#Control_L(Tab)}",
 "TPH*BGS": "{#Control_L(Shift_L(Tab))}",
 "KHR-S": "{#Alt_L(F4)}",
@@ -162,6 +162,7 @@
 "H-PL": "{#Home}",
 "TPH-D": "{#End}",
 "PW*FP": "{#Delete}",
+"TKHR-T": "{#Shift_L(Delete)}",
 # suppress space after return
 "R-R": "{#Return} {^}",
 # return for writing (first word capitalized)
