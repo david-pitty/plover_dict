@@ -192,7 +192,7 @@
 # work spaces
 "W-PBD": "{#Super_L(s)}",
 # copy on console
-"K*P": "{#Shift_L(Control_L(c))}",
+"K-PS": "{#Shift_L(Control_L(c))}",
 
 # Outlook
 # send email
