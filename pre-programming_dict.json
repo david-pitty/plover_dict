@@ -186,6 +186,7 @@
 "T-PL": "{#Control_L(Alt_L(t))}",
 "T-BZ": "{#Super_L(w)}",
 "W-PBD": "{#Super_L(s)}",
+"K*P": "{#Shift_L(Control_L(c))}",
 
 # Outlook
 # send email
