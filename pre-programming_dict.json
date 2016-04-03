@@ -116,6 +116,7 @@
 "SPR*PB": "{^ )^}",
 "A*T": "{^@^}",
 "*P": "{^.^}",
+"*PS": "{^ .^}",
 "*R": "{^,^}",
 "KP-PL": "{^!^}",
 "KP*PL": "{!}",
@@ -184,9 +185,13 @@
 "W-RD": "{#Super_L(r)}",
 
 # Linux keybindings
+# open terminal
 "T-PL": "{#Control_L(Alt_L(t))}",
+# windows
 "T-BZ": "{#Super_L(w)}",
+# work spaces
 "W-PBD": "{#Super_L(s)}",
+# copy on console
 "K*P": "{#Shift_L(Control_L(c))}",
 
 # Outlook
@@ -194,27 +199,6 @@
 "S-PBD": "{#Alt_L(s)}",
 # read email
 "R-D": "{#Control_L(q)}",
-# use find for forward email
-
-# Control commands
-"KR*L": "{}",
-"KR*L/KR*": "{#Control_L(c)}",
-"KR*L/SR*": "{#Control_L(v)}",
-"KR*L/S*": "{#Control_L(s)}",
-"KR*L/*U": "{#Control_L(u)}",
-"KR*L/STKPW*": "{#Control_L(z)}",
-"KR*L/*U": "{#Control_L(u)}",
-"KR*L/KP*": "{#Control_L(x)}",
-"KR*L/A*": "{#Control_L(a)}",
-"KR*L/KWR*": "{#Control_L(y)}",
-"KR*L/TP*": "{#Control_L(f)}",
-"KR*L/HR*": "{#Control_L(l)}",
-"KR*L/O*": "{#Control_L(o)}",
-"KR*L/KP*": "{#Control_L(x)}",
-"KR*L/W*": "{#Control_L(w)}",
-"KR*L/P*": "{#Control_L(p)}",
-"KR*L/*E": "{#Control_L(e)}",
-"KR*L/R*": "{#Control_L(r)}",
 
 # Sublime Text command
 "KPR*": "{#Control_L(Shift_L(p))}",
