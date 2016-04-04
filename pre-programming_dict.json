@@ -161,9 +161,12 @@
 "KR*T": "{#Control_L(Shift_L(t))}",
 "SK-P": "{#Escape}",
 "H-PL": "{#Home}",
+"H*PL": "{#Control_L(Home)}",
 "TPH-D": "{#End}",
-"PW*FP": "{#Delete}",
-"TKHR-T": "{#Shift_L(Delete)}",
+"TPH*D": "{#Control_L(End)}",
+"PW*FP": "{#Control_L(BackSpace)}",
+"TKHR-T": "{#Delete}",
+"TKHR*T": "{#Shift_L(Delete)}",
 # suppress space after return
 "R-R": "{#Return} {^}",
 # return for writing (first word capitalized)
