@@ -154,8 +154,8 @@
 
 # Windows keybindings
 "S-F": "{#Control_L(s)}",
-"TPH-BGS": "{#Control_L(Page_Down)}",
-"TPH*BGS": "{#Control_L(Page_Up)}",
+"TPH-BGS": "{#Control_L(Tab)}",
+"TPH*BGS": "{#Control_L(Shift_L(Tab))}",
 "KHR-S": "{#Alt_L(F4)}",
 "KR-T": "{#Control_L(t)}",
 "KR*T": "{#Control_L(Shift_L(t))}",
