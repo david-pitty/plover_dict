@@ -143,6 +143,8 @@
 
 # Lost keys
 "T-B": "{#Tab}",
+# annoying typo
+"T-G": "{#Tab}",
 "T*B": "{#Shift_L(Tab)}",
 # currently not working
 #"T-BZ": "{#Control_L(Alt_L(Tab))}",
