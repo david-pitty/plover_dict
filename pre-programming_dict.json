@@ -176,6 +176,7 @@
 "H*PL": "{#Control_L(Home)}",
 "TPH-D": "{#End}",
 "TPH*D": "{#Control_L(End)}",
+"PW-FP": "{#BackSpace}",
 "PW*FP": "{#Control_L(BackSpace)}",
 "TKHR-T": "{#Delete}",
 "TKHR*T": "{#Shift_L(Delete)}",
