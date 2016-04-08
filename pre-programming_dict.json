@@ -145,7 +145,7 @@
 "T-B": "{#Tab}",
 # annoying typos
 "T-G": "{#Tab}",
-"P-G": "{#Tab}",
+"P-B": "{#Tab}",
 "T*B": "{#Shift_L(Tab)}",
 # currently not working
 #"T-BZ": "{#Control_L(Alt_L(Tab))}",
