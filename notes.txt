@@ -36,3 +36,7 @@ example: listen, stroked HREUFPB
 
 -king -> ...-G
 example: walking, talking, looking -> instead of HRAOBG/-G, omit the -B (that forms the K sound) => HRAOG
+
+-ive -> EUF
+-ivity -> EUFT
+examples: activity, productivity -> ABGT/EUFT and PRUBGT/EUFT
