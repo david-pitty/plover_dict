@@ -1,13 +1,4 @@
 {
-# Number bar at the bottom
-"#-B": "7",
-"#-G": "8",
-"#-R": "6",
-"#-S": "9",
-"#K": "2",
-"#R": "4",
-"#W": "3",
-
 # Prefix/Suffix
 "PRE": "{pre^}",
 
@@ -219,6 +210,7 @@
 "T-PL": "{#Control_L(Alt_L(t))}",
 # windows
 "T-BZ": "{#Super_L(w)}",
+"T*BZ": "{#Super_L(Shift_L(w))}",
 # work spaces
 "W-PBD": "{#Super_L(s)}",
 # copy on console
