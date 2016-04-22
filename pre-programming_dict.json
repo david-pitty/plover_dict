@@ -31,9 +31,9 @@
 
 # Shell words
 "PA*FP": "apache2",
-"ETS": "{^etc^}",
-"SRAR": "{^var^}",
-"AO*URS": "{^usr^}",
+"ETS": "etc",
+"SRAR": "var",
+"AO*URS": "usr",
 
 # Python words
 "TK-F": "{^def}",
@@ -49,7 +49,7 @@
 "S-R": "{^dpitty^}",
 "SAR": "{^ad_dpitty^}",
 "SP-R": "{^david-pitty^}",
-"PA*P": "{^edss^}",
+"PA*P": "edss",
 
 # Tmux commands
 "TPHUBGS": "tmux",
@@ -241,6 +241,7 @@
 "SK*PL": "{MODE:CAMEL}",
 # dash delimited
 "TK-RBS": "{MODE:SET_SPACE:-}",
+"SHR-Z": "{MODE:SET_SPACE:/}",
 
 # Plover special commands
 "PHR-BG": "{PLOVER:LOOKUP}",
