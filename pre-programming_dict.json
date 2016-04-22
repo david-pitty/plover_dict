@@ -1,6 +1,7 @@
 {
 # Prefix/Suffix
 "PRE": "{pre^}",
+"S*UB": "{sub^}",
 
 # Regular words
 "SPART": "separate",
