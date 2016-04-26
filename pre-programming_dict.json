@@ -171,7 +171,8 @@
 "PW-FP": "{#BackSpace}",
 "PW*FP": "{#Control_L(BackSpace)}",
 "TKHR-T": "{#Delete}",
-"TKHR*T": "{#Shift_L(Delete)}",
+"TKHR*T": "{#Control_L(Delete)}",
+"TKHR*RT": "{#Shift_L(Delete)}",
 # suppress space after return
 "R-R": "{#Return} {^}",
 # return for writing (first word capitalized)
