@@ -2,6 +2,7 @@
 # Prefix/Suffix
 "PRE": "{pre^}",
 "S*UB": "{sub^}",
+"TKPWRAF/TPEU": "{^graphy}",
 
 # Regular words
 "SPART": "separate",
@@ -166,8 +167,10 @@
 "SK-P": "{#Escape}",
 "H-PL": "{#Home}",
 "H*PL": "{#Control_L(Home)}",
+"SH-PL": "{#Shift_L(Home)}",
 "TPH-D": "{#End}",
 "TPH*D": "{#Control_L(End)}",
+"STPH-D": "{#Shift_L(End)}",
 "PW-FP": "{#BackSpace}",
 "PW*FP": "{#Control_L(BackSpace)}",
 "TKHR-T": "{#Delete}",
