@@ -2,6 +2,7 @@
 # Prefix/Suffix
 "PRE": "{pre^}",
 "S*UB": "{sub^}",
+"E/KOE": "{eco^}",
 "TKPWRAF/TPEU": "{^graphy}",
 
 # Regular words
@@ -127,8 +128,9 @@
 "SP-RS": "{^ %}",
 "P*RS": "{^&^}",
 # this is a typo on my part, but added it with no spaces
-"KHR-PB": "{^:}",
 "KHR-RB": "{^:^}",
+"KHR-PB": "{^:}",
+"SKHR-PB": "{^ :^}",
 "KHR*PB": "{^;}",
 "KHR*RB": "{^;}",
 "H-F": "{^?}",
