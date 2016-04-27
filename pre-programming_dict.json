@@ -194,6 +194,17 @@
 "W-D/-7": "{#Super_L(7)}",
 "W-D/-8": "{#Super_L(8)}",
 "W-D/-9": "{#Super_L(9)}",
+# open new instance of app
+"W-D/1*": "{#Super_L(Shift_L(1))}",
+"W-D/2*": "{#Super_L(Shift_L(2))}",
+"W-D/3*": "{#Super_L(Shift_L(3))}",
+"W-D/4*": "{#Super_L(Shift_L(4))}",
+"W-D/5*": "{#Super_L(Shift_L(5))}",
+"W-D/0*": "{#Super_L(Shift_L(0))}",
+"W-D/*6": "{#Super_L(Shift_L(6))}",
+"W-D/*7": "{#Super_L(Shift_L(7))}",
+"W-D/*8": "{#Super_L(Shift_L(8))}",
+"W-D/*9": "{#Super_L(Shift_L(9))}",
 # open file explorer
 "W-D/*E": "{#Super_L(e)}",
 "W-D/-D": "{#Super_L(d)}",
