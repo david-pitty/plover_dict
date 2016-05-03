@@ -43,3 +43,6 @@ examples: activity, productivity -> ABGT/EUFT and PRUBGT/EUFT
 
 -bility -> -BLT
 example: flexibility, stroked TPHREBGS/-BLT
+
+-ticity -> TEUS/TEU
+example: authenticity, stroked A*UT/TEUS/TEU
