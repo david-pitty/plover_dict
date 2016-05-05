@@ -48,4 +48,6 @@ example: flexibility, stroked TPHREBGS/-BLT
 example: authenticity, stroked A*UT/TEUS/TEU
 
 re... -> R+rest of the word
-example: report, stroked RORT, and regard, stroked RARD
+examples: report, stroked RORT
+          regard, stroked RARD
+          result, stroked RULT
