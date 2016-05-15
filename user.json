@@ -158,6 +158,7 @@
 "RE/SAOEFD": "received",
 "REPL/TKAEUT": "remediate",
 "REPLD/KWRAEUT": "remediate",
+"REPLD/KWRAEUGS": "remediation",
 "S*EUS": "sys",
 "S*RB": "zsh",
 "S*RS": "src",
