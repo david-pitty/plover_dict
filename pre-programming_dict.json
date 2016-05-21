@@ -27,6 +27,7 @@
 "PAO*EUT": "{python ^}",
 "PEUB": "pyb",
 "TKPWEUT": "git",
+"HR*PB": "ln",
 "K-D": "{cd ^}",
 "R-PL": "{rm ^}",
 "PH-F": "{mv ^}",
