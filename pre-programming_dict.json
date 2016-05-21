@@ -115,6 +115,9 @@
 "H-RB": "{^#}",
 "TK-RL": "{^$^}",
 "STK-RL": "{^ $^}",
+# typos on dollar symbol
+"TK-RT": "{^$^}",
+"STK-RT": "{^ $^}",
 "PR-PB": "{^(^}",
 "PR*PB": "{^)^}",
 "SPR-PB": "{^ (^}",
