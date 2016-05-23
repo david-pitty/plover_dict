@@ -4,6 +4,8 @@
 "S*UB": "{sub^}",
 "E/KOE": "{eco^}",
 "TKPWRAF/TPEU": "{^graphy}",
+# for rc files
+"R-BG": "{^rc}",
 
 # Regular words
 "SPART": "separate",
