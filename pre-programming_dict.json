@@ -43,8 +43,6 @@
 
 # Python words
 "TK-F": "{^def}",
-"KHRAS": "{^class}",
-"KHRA*S": "class",
 "ARGS": "args",
 "KWARGS": "kwargs",
 "-PBT": "{__init__^}",
