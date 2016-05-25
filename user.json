@@ -59,6 +59,7 @@
 "HEF/SREU": "heavy",
 "HEUL/HRAR/KWRAOUS": "hilarious",
 "HEUL/HRAR/KWRUS": "hilarious",
+"HEUPS/TER": "hipster",
 "HOEFT/TPHAEUPL": "hostname",
 "HOPB/TPHEU": "honey",
 "HR*EUFT": "list",
@@ -79,11 +80,13 @@
 "KAT/TKPWREUS": "categories",
 "KEUSZ": "kisses",
 "KHO/RUS": "chorus",
+"KHOBG/OE": "choco",
 "KHR*EU": "cli",
 "KHRAFS/KAEUGS": "classification",
 "KO*FPB": "conf",
 "KO*PL/PHAOEUS": "compromise",
 "KO*PL/TPHEU": "company",
+"KO*RP": "corp",
 "KO/TPHEBGT": "connect",
 "KOL/PWRAEUGS": "collaboration",
 "KOPB/SEUD/*ER": "consider",
@@ -117,6 +120,7 @@
 "OBG": "ok",
 "OBS/SRERGS": "observation",
 "OE": "oh",
+"OEP/S-L": "openssl",
 "OR/SKWREUPB": "origin",
 "OUT/PUT": "output",
 "P*EPL": "people",
@@ -280,5 +284,6 @@
 "WO/REUS": "worries",
 "WOD": "word",
 "WOR/REUS": "worries",
-"WREUPBT": "written"
+"WREUPBT": "written",
+"WUBGS": "wemux"
 }
