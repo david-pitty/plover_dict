@@ -116,9 +116,6 @@
 "H-RB": "{^#}",
 "TK-RL": "{^$^}",
 "STK-RL": "{^ $^}",
-# typos on dollar symbol
-"TK-RT": "{^$^}",
-"STK-RT": "{^ $^}",
 "PR-PB": "{^(^}",
 "PR*PB": "{^)^}",
 "SPR-PB": "{^ (^}",
@@ -133,14 +130,17 @@
 "P-RS": "{^%^}",
 "SP-RS": "{^ %}",
 "P*RS": "{^&^}",
-# this is a typo on my part, but added it with no spaces
-"KHR-RB": "{^:^}",
 "KHR-PB": "{^:}",
 "SKHR-PB": "{^ :^}",
 "KHR*PB": "{^;}",
 "KHR*RB": "{^;}",
 "H-F": "{^?}",
 "PHR-S": "+",
+# these are typos on my part
+"KHR-RB": "{^:^}",
+"KHR-LG": "{^:^}",
+"TK-RT": "{^$^}",
+"STK-RT": "{^ $^}",
 
 # Lost keys
 "T-B": "{#Tab}",
@@ -159,6 +159,7 @@
 # Shell keybindgins
 "SHR-P": "{#Control_L(z)}",
 "K-L": "{#Control_L(l)}",
+"K*L": "{#Control_L(Shift_L(l))}",
 "KRU": "{#Control_L(u)}",
 "K-R": "{#Control_L(r)}",
 "K*R": "{#Control_L(Shift_L(r))}",
