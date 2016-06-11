@@ -3,6 +3,7 @@
 "PRE": "{pre^}",
 "S*UB": "{sub^}",
 "E/KOE": "{eco^}",
+"KH*": "{ch^}",
 "TKPWRAF/TPEU": "{^graphy}",
 # for rc files
 "R-BG": "{^rc}",
