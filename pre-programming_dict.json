@@ -5,6 +5,7 @@
 "E/KOE": "{eco^}",
 "KH*": "{ch^}",
 "TKPWRAF/TPEU": "{^graphy}",
+"KH*": "{ch^}",
 # for rc files
 "R-BG": "{^rc}",
 
@@ -169,6 +170,7 @@
 
 # Windows keybindings
 "S-F": "{#Control_L(s)}",
+"S*F": "{#Control_L(Shift_L(s))}",
 "TPH-BGS": "{#Control_L(Tab)}",
 "TPH*BGS": "{#Control_L(Shift_L(Tab))}",
 "KHR-S": "{#Alt_L(F4)}",
