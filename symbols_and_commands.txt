@@ -1,0 +1,7 @@
+Commands:
+	D-LS: suppress space
+	L*R: capitalize last word
+	L-R: decapitalize last word
+Symbols:
+	Q-K: textual comma
+	*R: command comma (all spaces suppessed)
