@@ -290,7 +290,7 @@
 "*URP": "{*<}",
 # suppress space between previous two strokes
 "TK*LS": "{*!}",
-# add space between previous two strokes
+# add space between previous two strokes (effectively splits them)
 "SP-S": "{*?}",
 # toggle star on last stoke
 "TK-LG": "{*}"

@@ -13,3 +13,7 @@ Symbols:
 	*R: command comma (all spaces suppessed)
 	Q-M: textual question mark
 	X-M: textual exclamation mark
+
+Documentation:
+    https://github.com/openstenoproject/plover/wiki/Dictionary-Format#macros
+    https://sites.google.com/site/ploverdoc/appendix-the-dictionary-format
