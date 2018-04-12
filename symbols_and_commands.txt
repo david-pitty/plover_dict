@@ -1,10 +1,15 @@
 Commands:
 	D-LS: suppress space for next word
 	D*LS: suppress space for last word
-	L*R: capitalize last word
-	L-R: decapitalize last word
+	L-R: Lower (decapitalize) last word
+	L*R: Unlower (capitalize) last word
 	B-FP: backspace
-	KPA: capitalize and suppress space for next word
+	B*FP: backspace full  considers which has cs considers
+	KPA: capitalize next word
+	KPA*: capitalize and suppress space for next word
+    *URP: uppercase previous word
 Symbols:
 	Q-K: textual comma
 	*R: command comma (all spaces suppessed)
+	Q-M: textual question mark
+	X-M: textual exclamation mark

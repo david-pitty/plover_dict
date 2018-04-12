@@ -282,10 +282,11 @@
 "TR-PBS": "{PLOVER:ADD_TRANSLATION}",
 # repeat previous stroke
 "P-": "{*+}",
-# decapitalize previous stroke
+# Lower (decapitalize) last word
 "HR-R": "{*>}",
-# capitalize last word
+# Unlower (capitalize) last word
 "HR*R": "{*-|}",
+# uppercase previous word
 "*URP": "{*<}",
 # suppress space between previous two strokes
 "TK*LS": "{*!}",
