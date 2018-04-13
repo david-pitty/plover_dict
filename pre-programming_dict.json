@@ -140,8 +140,7 @@
 "H-F": "{^?}",
 "PHR-S": "+",
 # these are typos on my part
-"KHR-RB": "{^:^}",
-"KHR-LG": "{^:^}",
+"KH-PB": "{^:}",
 "TK-RT": "{^$^}",
 "STK-RT": "{^ $^}",
 "PR-P": "{^(^}",

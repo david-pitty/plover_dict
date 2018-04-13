@@ -1,6 +1,7 @@
 Need to remember:
 
 TO: to (instead of O to avoid resolving to other words)
+TPH: in (instead of IN, which is the prefix in-)
 TA: that
 THE: they
 WH: what
