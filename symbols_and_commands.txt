@@ -4,15 +4,23 @@ Commands:
 	L-R: Lower (decapitalize) last word
 	L*R: Unlower (capitalize) last word
 	B-FP: backspace
-	B*FP: backspace full  considers which has cs considers
+	B*FP: backspace full considers which has cs considers
+	DL-T: delete key
 	KPA: capitalize next word
 	KPA*: capitalize and suppress space for next word
     *URP: uppercase previous word
 Symbols:
-	Q-K: textual comma
-	*R: command comma (all spaces suppessed)
-	Q-M: textual question mark
-	X-M: textual exclamation mark
+	*P: (.) textual period
+	*PS: ( .) space + period
+	Q-K: (,) textual comma
+	*R: (^,^) command comma (all spaces suppessed)
+	Q-M: (?) textual question mark
+	X-M: (!) textual exclamation mark
+	A-E: (^') single quote
+	A-ES: ('s) single quote
+	Q*T: (^'^) single quote
+	Q-T: (") double quote
+	PL-S: (+) plus symbol
 
 Documentation:
     https://github.com/openstenoproject/plover/wiki/Dictionary-Format#macros

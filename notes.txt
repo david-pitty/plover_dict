@@ -1,3 +1,52 @@
+-FRB: Compound cluster RV, used in 'serve', 'nerve'
+
+To proserve steno order F is used as S. This is the case with -ing ending words like 'using' (EWFG), 'missing' (MIFG). Same with words like 'useful' (EWFL).
+
+M on the right is used for LM sounds as well. Example: balm (BAUPL)
+
+-other ending words typed with OER. Example: brother (BROER)
+
+Prefixes:
+	ex- -> EBGS/... or SK-...
+	example: exterminate, stoked EBGS/TERPL/TPHAEUT or exclamation, stroked SKHRAGS
+
+Suffixes:
+	-ically -> KHREU
+
+	-ment -> -PLT
+	example: increment, stoked EUPB/KREPLT
+
+	-le (ending sound) -> -L
+	example: freckle, stroked TPREBG/-L
+
+	-mal ending words -> ...L
+	example: normal, stroked TPHOL or formal, stroked TPORL
+
+	-tious ending words -> ...RBS
+	example: pretentious, stoked PRE/TERBS or ambitious, stoked APL/PWEURBS
+
+	-FPB -> for "sn" sounds should be stroked with middle and angular fingers
+	example: listen, stroked HREUFPB
+
+	-king -> ...-G
+	example: walking, talking, looking -> instead of HRAOBG/-G, omit the -B (that forms the K sound) => HRAOG
+
+	-ive -> EUF
+	-ivity -> EUFT
+	examples: activity, productivity -> ABGT/EUFT and PRUBGT/EUFT
+
+	-bility -> -BLT
+	example: flexibility, stroked TPHREBGS/-BLT
+
+	-ticity -> TEUS/TEU
+	example: authenticity, stroked A*UT/TEUS/TEU
+
+	re... -> R+rest of the word
+	examples: report, stroked RORT
+	          regard, stroked RARD
+	          result, stroked RULT
+
+
 Long Vowels
 AEU: This is used for the 'a' sound in words like 'grape' and 'saint'  			[EI]
 AOE: This is used for the 'ee' sound in words like 'seen' and 'preach' 			[EEEE]
@@ -11,43 +60,3 @@ Diphthongs
 AU: This is used for the 'aw' sound in words like 'bought', 'tawny', and 'faun' [short A -> awe]
 OU: This is used for the 'ow' sound in words like 'down' and 'mound'            [AU]
 OEU: This is used for the 'oi' sound in words like 'toil' and 'ploy'			[OI]
-
-M on the right is used for LM sounds as well
-
-ex- -> EBGS/... or SK-...
-example: exterminate, stoked EBGS/TERPL/TPHAEUT or exclamation, stroked SKHRAGS
-
--ically -> KHREU
-
--ment -> -PLT
-example: increment, stoked EUPB/KREPLT
-
--le (ending sound) -> -L
-example: freckle, stroked TPREBG/-L
-
--mal ending words -> ...L
-example: normal, stroked TPHOL or formal, stroked TPORL
-
--tious ending words -> ...RBS
-example: pretentious, stoked PRE/TERBS or ambitious, stoked APL/PWEURBS
-
--FPB -> for "sn" sounds should be stroked with middle and angular fingers
-example: listen, stroked HREUFPB
-
--king -> ...-G
-example: walking, talking, looking -> instead of HRAOBG/-G, omit the -B (that forms the K sound) => HRAOG
-
--ive -> EUF
--ivity -> EUFT
-examples: activity, productivity -> ABGT/EUFT and PRUBGT/EUFT
-
--bility -> -BLT
-example: flexibility, stroked TPHREBGS/-BLT
-
--ticity -> TEUS/TEU
-example: authenticity, stroked A*UT/TEUS/TEU
-
-re... -> R+rest of the word
-examples: report, stroked RORT
-          regard, stroked RARD
-          result, stroked RULT
