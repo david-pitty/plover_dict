@@ -193,6 +193,7 @@
 "PW-FP": "{#BackSpace}",
 "PW*FP": "{#Control_L(BackSpace)}",
 "TKHR-T": "{#Delete}",
+"TKHR-D": "{#Delete}",
 "TKHR*T": "{#Control_L(Delete)}",
 "TKHR*RT": "{#Shift_L(Delete)}",
 # suppress space after return

@@ -12,3 +12,5 @@ THIG: thinking
 WI: which
 RAIR (RAOEUR): require
 EWFL: useful
+WEER (WAOER): we're
+NAO: into

@@ -2,9 +2,13 @@
 
 To proserve steno order F is used as S. This is the case with -ing ending words like 'using' (EWFG), 'missing' (MIFG). Same with words like 'useful' (EWFL).
 
+To add -ing to -K (-BG) ending words, just remove the -B. Example: sticking (STIG), shaking (SHAIG).
+
 M on the right is used for LM sounds as well. Example: balm (BAUPL)
 
 -other ending words typed with OER. Example: brother (BROER)
+
+-ithm ending words are stroked with *EUPLT since *T makes the TH sound, and PL makes the M sound. Example: rhythm (R*EUPLT), algorithm (ALG/R*EUPLT)
 
 Prefixes:
 	ex- -> EBGS/... or SK-...
