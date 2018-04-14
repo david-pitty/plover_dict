@@ -10,22 +10,6 @@
 # for rc files
 "R-BG": "{^rc}",
 
-# Regular words
-"SPART": "separate",
-"KHEBGT": "checkout",
-"TKEUBGT": "dict",
-"PHRAPBG": "planck",
-"TKEUFT": "dist",
-"TUPL": "tuple",
-"AOU/TEUL": "util",
-"SR-BG": "src",
-"H-PT": "http",
-"H*PT": "http://",
-"H*PTS": "https://",
-"A*RT": "attr",
-"HR-L": "lol",
-"T-BGT": "txt",
-
 # Shell commands
 "TKPWREP": "grep",
 "S-D": "sudo",
@@ -58,33 +42,16 @@
 "SP-R": "{^david-pitty^}",
 "PA*P": "edss",
 
-# Tmux commands
-"TPHUBGS": "tmux",
-"KRA": "{#Control_L(a)} {^}",
-
 # Vim commands
 "SREU": "{vi ^}",
 "SREUPL": "vim",
-# vm command for pane navigation
-"SR-PL": "{#Control_L(w)} {^}",
-"KR*E": "{#Control_L(e)}",
-"KR-BG": "{#Control_L(k)}",
-"KR-B": "{#Control_L(b)}",
-"KR-D": "{#Control_L(d)}",
-"KR-F": "{#Control_L(f)}",
 "KR*F": "{#Control_L(Shift_L(f)}",
 # visual block
 "SR-B": "{#Control_L(v)}",
-# previous & next
-"KPR": "{#Control_L(p)}",
-"KR-PB": "{#Control_L(n)}",
 "KR*PB": "{#Control_L(Shift_L(n))}",
 # toggle nerd tree
 "TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
-"KRO*E": "{#Control_L(o)}",
-"K*EU": "{#Control_L(i)}",
-"KR-G": "{#Control_L(g)}",
-# for easier save and quit
+# easier way to type Z for faster save and quit
 "*Z": "{&Z}",
 
 # Symbols
@@ -117,12 +84,13 @@
 "R-T": "{&>}",
 "HR-T": "{&<}",
 "H-RB": "{^#}",
+"SH-RB": "{^ #}",
 "TK-RL": "{^$^}",
 "STK-RL": "{^ $^}",
 "PR-PB": "{^(^}",
 "PR*PB": "{^)^}",
 "SPR-PB": "{^ (^}",
-"SPR*PB": "{^)}",
+"SPR*PB": "{^ )}",
 "A*T": "{^@^}",
 "*P": "{^.^}",
 "*PS": "{.^}",
@@ -139,7 +107,7 @@
 "KHR*RB": "{^;}",
 "H-F": "{^?}",
 "PHR-S": "+",
-# these are typos on my part
+# typos
 "KH-PB": "{^:}",
 "TK-RT": "{^$^}",
 "STK-RT": "{^ $^}",
@@ -148,33 +116,14 @@
 "PR-B": "{^(^}",
 "PR*B": "{^)^}",
 
-# Lost keys
+# Tab
 "T-B": "{#Tab}",
-# annoying typos
-"T-G": "{#Tab}",
-"P-B": "{#Tab}",
 "T*B": "{#Shift_L(Tab)}",
-# currently not working
-#"T-BZ": "{#Control_L(Alt_L(Tab))}",
-
-# Copy & Paste
-"K-P": "{#Control_L(c)}",
-"P-FT": "{#Shift_L(Insert)}",
-"K-T": "{#Control_L(x)}",
 
 # Shell keybindgins
 "SHR-P": "{#Control_L(z)}",
-"K-L": "{#Control_L(l)}",
-"K*L": "{#Control_L(Shift_L(l))}",
-"KRU": "{#Control_L(u)}",
-"K-R": "{#Control_L(r)}",
-"K*R": "{#Control_L(Shift_L(r))}",
-# kill session
-"K-LS": "{#Control_L(d)}",
 
 # Windows keybindings
-"S-F": "{#Control_L(s)}",
-"S*F": "{#Control_L(Shift_L(s))}",
 "TPH-BGS": "{#Control_L(Tab)}",
 "TPH*BGS": "{#Control_L(Shift_L(Tab))}",
 "KHR-S": "{#Alt_L(F4)}",
@@ -199,35 +148,35 @@
 "R-R": "{#Return} {^}",
 # return for writing (first word capitalized)
 "R*R": "{#Return} {^} {-|}",
-# open apps
-"W-D": "{}",
-"W-D/1": "{#Super_L(1)}",
-"W-D/2": "{#Super_L(2)}",
-"W-D/3": "{#Super_L(3)}",
-"W-D/4": "{#Super_L(4)}",
-"W-D/5": "{#Super_L(5)}",
-"W-D/0": "{#Super_L(0)}",
-"W-D/-6": "{#Super_L(6)}",
-"W-D/-7": "{#Super_L(7)}",
-"W-D/-8": "{#Super_L(8)}",
-"W-D/-9": "{#Super_L(9)}",
-# open new instance of app
-"W-D/1*": "{#Super_L(Shift_L(1))}",
-"W-D/2*": "{#Super_L(Shift_L(2))}",
-"W-D/3*": "{#Super_L(Shift_L(3))}",
-"W-D/4*": "{#Super_L(Shift_L(4))}",
-"W-D/5*": "{#Super_L(Shift_L(5))}",
-"W-D/0*": "{#Super_L(Shift_L(0))}",
-"W-D/*6": "{#Super_L(Shift_L(6))}",
-"W-D/*7": "{#Super_L(Shift_L(7))}",
-"W-D/*8": "{#Super_L(Shift_L(8))}",
-"W-D/*9": "{#Super_L(Shift_L(9))}",
-# open file explorer
-"W-D/*E": "{#Super_L(e)}",
-"W-D/-D": "{#Super_L(d)}",
-"W-RD": "{#Super_L(r)}",
 
-# Control key bindings for chrome
+# Control keys
+"KRA*": "{#Control_L(a)} {^}",
+"KR*E": "{#Control_L(e)} {^}",
+"K*EU": "{#Control_L(i)} {^}",
+"KRO*E": "{#Control_L(o)} {^}",
+"KRU": "{#Control_L(u)} {^}",
+"KR*U": "{#Control_L(u)} {^}",
+"KR-B": "{#Control_L(b)} {^}",
+"KHR-BG": "{#Control_L(c)} {^}",
+"KR-D": "{#Control_L(d)} {^}",
+"KR-F": "{#Control_L(f)} {^}",
+"KR-G": "{#Control_L(g)} {^}",
+"KR-BG": "{#Control_L(k)} {^}",
+"K-L": "{#Control_L(l)} {^}",
+"KR-L": "{#Control_L(l)} {^}",
+"K*L": "{#Control_L(Shift_L(l))} {^}",
+# not working
+#"KR*L": "{#Control_L(Shift_L(l))} {^}",
+"KR-PL": "{#Control_L(m)} {^}",
+"KR-PB": "{#Control_L(n)} {^}",
+"KPR": "{#Control_L(p)} {^}",
+"K-R": "{#Control_L(r)} {^}",
+"KR-R": "{#Control_L(r)} {^}",
+"KR-S": "{#Control_L(s)} {^}",
+"KR-BGS": "{#Control_L(x)} {^}",
+"KR-Z": "{#Control_L(z)} {^}",
+
+# Control + # key bindings for chrome/work spaces on Mac
 "KR*L": "{}",
 "KR*L/1": "{#Control_L(1)}",
 "KR*L/2": "{#Control_L(2)}",
@@ -240,22 +189,6 @@
 "KR*L/-8": "{#Control_L(8)}",
 "KR*L/-9": "{#Control_L(9)}",
 
-# Linux keybindings
-# open terminal
-"T-PL": "{#Control_L(Alt_L(t))}",
-# windows
-"T-BZ": "{#Super_L(w)}",
-"T*BZ": "{#Super_L(Shift_L(w))}",
-# work spaces
-"W-PBD": "{#Super_L(s)}",
-# copy on console
-"K-PS": "{#Shift_L(Control_L(c))}",
-
-# Outlook
-# send email
-"S-PBD": "{#Alt_L(s)}",
-# read email
-"R-D": "{#Control_L(q)}",
 
 # Sublime Text command
 "KPR*": "{#Control_L(Shift_L(p))}",
@@ -294,6 +227,7 @@
 "*URP": "{*<}",
 # suppress space between previous two strokes
 "TK*LS": "{*!}",
+"TK*LTS": "{*!}",
 # add space between previous two strokes (effectively splits them)
 "SP-S": "{*?}",
 # toggle star on last stoke

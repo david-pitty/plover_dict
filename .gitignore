@@ -1,3 +1,6 @@
 *.sw[op]
 programming_dict.json
+windows.json
+mac.json
+linux.json
 .gitconfig

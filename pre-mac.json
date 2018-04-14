@@ -1,0 +1,6 @@
+{
+# K home => command home @ mac
+"KH-PL": "{#Super_L(Home)}",
+"KH*PL": "{#Super_L(Shift_L(Home))}",
+
+}

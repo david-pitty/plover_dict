@@ -1,0 +1,12 @@
+{
+# Linux keybindings
+# open terminal
+"T-PL": "{#Control_L(Alt_L(t))}",
+# windows
+"T-BZ": "{#Super_L(w)}",
+"T*BZ": "{#Super_L(Shift_L(w))}",
+# work spaces
+"W-PBD": "{#Super_L(s)}",
+# copy on console
+"K-PS": "{#Shift_L(Control_L(c))}"
+}

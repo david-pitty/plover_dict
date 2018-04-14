@@ -13,6 +13,7 @@ Symbols:
 	*P: (.) textual period
 	*PS: ( .) space + period
 	Q-K: (,) textual comma
+	-BGS: (,) textual comma
 	*R: (^,^) command comma (all spaces suppessed)
 	Q-M: (?) textual question mark
 	X-M: (!) textual exclamation mark
