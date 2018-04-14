@@ -41,6 +41,8 @@
 # Vim commands
 "SREU": "{vi ^}",
 "SREUPL": "vim",
+# window management in vim
+"SR-PL": "{#Control_L(w)}",
 "KR*F": "{#Control_L(Shift_L(f)}",
 # visual block
 "SR-B": "{#Control_L(v)}",
@@ -119,13 +121,11 @@
 
 # Shell keybindgins
 "SHR-P": "{#Control_L(z)}",
+"ST-P": "{#Control_L(c)}",
 
 # Windows keybindings
 "TPH-BGS": "{#Control_L(Tab)}",
 "TPH*BGS": "{#Control_L(Shift_L(Tab))}",
-"KHR-S": "{#Alt_L(F4)}",
-"KR-T": "{#Control_L(t)}",
-"KR*T": "{#Control_L(Shift_L(t))}",
 "SK-P": "{#Escape}",
 "H-PL": "{#Home}",
 "H*PL": "{#Control_L(Home)}",
@@ -170,6 +170,8 @@
 "K-R": "{#Control_L(r)} {^}",
 "KR-R": "{#Control_L(r)} {^}",
 "KR-S": "{#Control_L(s)} {^}",
+"KR-T": "{#Control_L(t)}",
+"KR*T": "{#Control_L(Shift_L(t))}",
 "KR-BGS": "{#Control_L(x)} {^}",
 "KR-Z": "{#Control_L(z)} {^}",
 

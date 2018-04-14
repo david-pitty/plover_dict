@@ -9,13 +9,13 @@
 "S-F": "{#Control_L(s)}",
 "S*F": "{#Control_L(Shift_L(s))}",
 
-# browser navigation
-"SR-PL": "{#Control_L(w)}",
-
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
 "P-FT": "{#Shift_L(Insert)}",
 "K-T": "{#Control_L(x)}",
+
+# Close an application
+"KHR-S": "{#Alt_L(F4)}",
 
 # show all apps (currently not working)
 #"T-BZ": "{#Control_L(Alt_L(Tab))}",

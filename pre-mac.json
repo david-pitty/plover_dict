@@ -1,6 +1,69 @@
 {
-# K home => command home @ mac
-"KH-PL": "{#Super_L(Home)}",
+"KH-PL": "{#Super_L(Left)}",
+"TKPWHR-D": "{#Super_L(Right)}",
 "KH*PL": "{#Super_L(Shift_L(Home))}",
+"SP-T": "{#Super_L(Space)}",
+
+# Outlook
+# send email
+"S-PBD": "{#Super_L(Enter)}",
+# read email
+"R-D": "{#Super_L(t)}",
+
+# save files
+"S-F": "{#Super_L(s)}",
+"S*F": "{#Super_L(Shift_L(s))}",
+
+# browser navigation
+# read like "CLose Tab"
+"KHR-T": "{#Super_L(w)}",
+"KPH-T": "{#Super_L(t)}",
+
+# Copy & Paste
+"K-P": "{#Super_L(c)}",
+"P-FT": "{#Super_L(v)}",
+"K-T": "{#Super_L(x)}",
+
+# Currently not working :(
+#"W-D": "{}",
+#"W-D/1": "{#Control_L(1)}",
+#"W-D/2": "{#Control_L(2)}",
+#"W-D/3": "{#Control_L(3)}",
+#"W-D/4": "{#Control_L(4)}",
+#"W-D/5": "{#Control_L(5)}",
+#"W-D/6": "{#Control_L(6)}",
+
+# Close an application
+"KHR-S": "{#Super_L(q)}",
+
+# show all apps
+"T-BZ": "{#Control_L(Super_L(Up))}",
+
+# Command keys
+"KPHA*": "{#Super_L(a)} {^}",
+#"KR*E": "{#Super_L(e)} {^}",
+#"K*EU": "{#Super_L(i)} {^}",
+#"KRO*E": "{#Super_L(o)} {^}",
+#"KRU": "{#Super_L(u)} {^}",
+#"KR*U": "{#Super_L(u)} {^}",
+#"KR-B": "{#Super_L(b)} {^}",
+#"KHR-BG": "{#Super_L(c)} {^}",
+#"KR-D": "{#Super_L(d)} {^}",
+#"KR-F": "{#Super_L(f)} {^}",
+#"KR-G": "{#Super_L(g)} {^}",
+#"KR-BG": "{#Super_L(k)} {^}",
+#"K-L": "{#Super_L(l)} {^}",
+#"KR-L": "{#Super_L(l)} {^}",
+#"K*L": "{#Super_L(Shift_L(l))} {^}",
+#"KR-PL": "{#Super_L(m)} {^}",
+#"KR-PB": "{#Super_L(n)} {^}",
+"KPH-P": "{#Super_L(p)} {^}",
+"KPH-R": "{#Super_L(r)} {^}",
+#"KR-S": "{#Super_L(s)} {^}",
+#"KR-T": "{#Super_L(t)}",
+#"KR*T": "{#Super_L(Shift_L(t))}",
+#"KR-BGS": "{#Super_L(x)} {^}",
+"KPH-Z": "{#Super_L(z)} {^}",
+"KPH*Z": "{#Super_L(Shift(z))} {^}"
 
 }
