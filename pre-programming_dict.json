@@ -53,6 +53,7 @@
 "TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
 # easier way to type Z for faster save and quit
 "*Z": "{&Z}",
+"P*Z": "{^ZZ}",
 
 # Symbols
 "SHR-RB": "{^/^}",
