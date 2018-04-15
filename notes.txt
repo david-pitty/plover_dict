@@ -17,7 +17,7 @@ Prefixes:
 			 exist, stroked KPEUFT
 
 Suffixes:
-	-y -> KWEU
+	-y -> KWREU (y+i)
 
 	-ically -> KHREU
 

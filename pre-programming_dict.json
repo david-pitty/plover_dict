@@ -224,6 +224,8 @@
 "HR*R": "{*-|}",
 # uppercase previous word
 "*URP": "{*<}",
+# suppress space on next word
+"TK-LTS": "{^^}",
 # suppress space between previous two strokes
 "TK*LS": "{*!}",
 "TK*LTS": "{*!}",
