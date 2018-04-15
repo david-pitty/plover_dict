@@ -1,0 +1,6 @@
+{
+"TK-F": "{^def}",
+"ARGS": "args",
+"KWARGS": "kwargs",
+"-PBT": "{__init__^}"
+}

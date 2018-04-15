@@ -9,7 +9,6 @@
 # Shell commands
 "TKPWREP": "grep",
 "S-D": "sudo",
-"PAO*EUT": "{python ^}",
 "PEUB": "pyb",
 "TKPWEUT": "git",
 "HR*PB": "ln",
@@ -24,19 +23,18 @@
 "SRAR": "var",
 "AO*URS": "usr",
 
-# Python words
-"TK-F": "{^def}",
-"ARGS": "args",
-"KWARGS": "kwargs",
-"-PBT": "{__init__^}",
-
 # Username and app info
 "P-T": "pitty",
 "SKWR-PB": "ajun",
+# User
 "S-R": "{^dpitty^}",
 "SAR": "{^ad_dpitty^}",
+# Personal user
 "SP-R": "{^david-pitty^}",
-"PA*P": "edss",
+
+# Git commands
+"TKPWA*": "{^gga}",
+"TKPWR": "{^gc}",
 
 # Vim commands
 "SREU": "{vi ^}",
@@ -54,6 +52,13 @@
 "P*Z": "{^ZZ}",
 # Enter insert mode cleanly
 "EUZ": "{^i^}",
+# Leader key
+"HR-D": "{^`^}",
+# Change inner word
+"KWORD": "{^ciw^}",
+"SKWORD": "{^cw^}",
+# Change in
+"KR-EU": "{^ci^}",
 
 # Symbols
 "SHR-RB": "{^/^}",

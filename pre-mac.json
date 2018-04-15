@@ -15,7 +15,7 @@
 "S*F": "{#Super_L(Shift_L(s))}",
 
 # browser navigation
-# read like "CLose Tab"
+# read as "CLose Tab"
 "KHR-T": "{#Super_L(w)}",
 "KPH-T": "{#Super_L(t)}",
 

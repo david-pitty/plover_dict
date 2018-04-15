@@ -9,6 +9,10 @@
 "S-F": "{#Control_L(s)}",
 "S*F": "{#Control_L(Shift_L(s))}",
 
+# browser navigation
+# read as "CLose Tab"
+"KHR-T": "{#Control_L(w)}",
+
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
 "P-FT": "{#Shift_L(Insert)}",
