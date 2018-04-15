@@ -124,8 +124,8 @@
 "PR*B": "{^)^}",
 
 # Tab
-"T-B": "{#Tab}",
-"T*B": "{#Shift_L(Tab)}",
+"T-B": "{#Tab} {^}",
+"T*B": "{#Shift_L(Tab)} {^}",
 
 # Shell keybindgins
 "SHR-P": "{#Control_L(z)} {^}",
