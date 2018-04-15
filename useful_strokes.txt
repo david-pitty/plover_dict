@@ -1,6 +1,8 @@
 Need to remember:
 
 AG: ago
+R*ED: ready
+L-RD: already
 GEN: again
 H: had
 TO: to (instead of O to avoid resolving to other words)
