@@ -11,10 +11,14 @@ M on the right is used for LM sounds as well. Example: balm (BAUPL)
 -ithm ending words are stroked with *EUPLT since *T makes the TH sound, and PL makes the M sound. Example: rhythm (R*EUPLT), algorithm (ALG/R*EUPLT)
 
 Prefixes:
-	ex- -> EBGS/... or SK-...
-	example: exterminate, stoked EBGS/TERPL/TPHAEUT or exclamation, stroked SKHRAGS
+	ex- -> EBGS/..., SK-... or KP-...
+	example: exterminate, stoked EBGS/TERPL/TPHAEUT
+			 exclamation, stroked SKHRAGS
+			 exist, stroked KPEUFT
 
 Suffixes:
+	-y -> KWEU
+
 	-ically -> KHREU
 
 	-ment -> -PLT
