@@ -48,10 +48,12 @@
 "SR-B": "{#Control_L(v)}",
 "KR*PB": "{#Control_L(Shift_L(n))}",
 # toggle nerd tree
-"TRAO*E": "{#Control_L(k)} {#Control_L(b)}",
+"TRAO*E": "{#Control_L(k)} {#Control_L(b)} {^}",
 # easier way to type Z for faster save and quit
 "*Z": "{&Z}",
 "P*Z": "{^ZZ}",
+# Enter insert mode cleanly
+"EUZ": "{^i^}",
 
 # Symbols
 "SHR-RB": "{^/^}",
@@ -120,27 +122,25 @@
 "T*B": "{#Shift_L(Tab)}",
 
 # Shell keybindgins
-"SHR-P": "{#Control_L(z)}",
-"ST-P": "{#Control_L(c)}",
+"SHR-P": "{#Control_L(z)} {^}",
+"ST-P": "{#Control_L(c)} {^}",
 
-# Windows keybindings
-"TPH-BGS": "{#Control_L(Tab)}",
-"TPH*BGS": "{#Control_L(Shift_L(Tab))}",
-"SK-P": "{#Escape}",
-"H-PL": "{#Home}",
-"H*PL": "{#Control_L(Home)}",
-"SH-PL": "{#Shift_L(Home)}",
-"SH*PL": "{#Control_L(Shift_L(Home))}",
-"TPH-D": "{#End}",
-"TPH*D": "{#Control_L(End)}",
-"STPH-D": "{#Shift_L(End)}",
-"STPH*D": "{#Control_L(Shift_L(End))}",
+# Navigation
+"TPH-BGS": "{#Control_L(Tab)} {^}",
+"TPH*BGS": "{#Control_L(Shift_L(Tab))} {^}",
+"SK-P": "{#Escape} {^}",
+"H-PL": "{#Home} {^}",
+"H*PL": "{#Control_L(Home)} {^}",
+"SH-PL": "{#Shift_L(Home)} {^}",
+"SH*PL": "{#Control_L(Shift_L(Home))} {^}",
+"TPH-D": "{#End} {^}",
+"TPH*D": "{#Control_L(End)} {^}",
+"STPH-D": "{#Shift_L(End)} {^}",
+"STPH*D": "{#Control_L(Shift_L(End))} {^}",
 "PW-FP": "{#BackSpace}",
-"PW*FP": "{#Control_L(BackSpace)}",
-"TKHR-T": "{#Delete}",
-"TKHR-D": "{#Delete}",
-"TKHR*T": "{#Control_L(Delete)}",
-"TKHR*RT": "{#Shift_L(Delete)}",
+"TKHR-T": "{#Delete} {^}",
+"TKHR-D": "{#Delete} {^}",
+"STKHR-T": "{#Shift_L(Delete)}",
 # suppress space after return
 "R-R": "{#Return} {^}",
 # return for writing (first word capitalized)

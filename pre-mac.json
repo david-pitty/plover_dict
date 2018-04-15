@@ -24,7 +24,11 @@
 "P-FT": "{#Super_L(v)}",
 "K-T": "{#Super_L(x)}",
 
-# Currently not working :(
+# Text navigation
+"PW*FP": "{#Alt_L(BackSpace)}",
+"TKHR*T": "{#Alt_L(Delete)}",
+
+# Work space navigation, currently not working :(
 #"W-D": "{}",
 #"W-D/1": "{#Control_L(1)}",
 #"W-D/2": "{#Control_L(2)}",
@@ -39,6 +43,10 @@
 # show all apps
 "T-BZ": "{#Control_L(Super_L(Up))}",
 
+
+###########
+# Mac only
+###########
 # Command keys
 "KPHA*": "{#Super_L(a)} {^}",
 #"KR*E": "{#Super_L(e)} {^}",
