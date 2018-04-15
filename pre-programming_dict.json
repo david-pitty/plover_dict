@@ -34,6 +34,7 @@
 
 # Git commands
 "TKPWA*": "{^gga}",
+"TKPWRA*": "{^gga}",
 "TKPWR": "{^gc}",
 
 # Tmux commands
@@ -73,6 +74,9 @@
 "P*Z": "{^ZZ}",
 # Enter insert mode cleanly
 "EUZ": "{^i^}",
+"OZ": "{^o^}",
+"AZ": "{^a^}",
+"A*Z": "{^A^}",
 # Leader key
 "HR-D": "{^\\&}",
 # Change inner word
