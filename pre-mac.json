@@ -25,8 +25,8 @@
 "K-T": "{#Super_L(x)}",
 
 # Text navigation
-"PW*FP": "{#Alt_L(BackSpace)}",
-"TKHR*T": "{#Alt_L(Delete)}",
+"PW*FP": "{#Alt_L(BackSpace)} {^}",
+"TKHR*T": "{#Alt_L(Delete)} {^}",
 
 # Work space navigation, currently not working :(
 #"W-D": "{}",

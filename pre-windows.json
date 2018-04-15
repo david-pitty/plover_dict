@@ -15,8 +15,8 @@
 "K-T": "{#Control_L(x)}",
 
 # Text navigation
-"PW*FP": "{#Control_L(BackSpace)}",
-"TKHR*T": "{#Control_L(Delete)}",
+"PW*FP": "{#Control_L(BackSpace)} {^}",
+"TKHR*T": "{#Control_L(Delete)} {^}",
 
 # Close an application
 "KHR-S": "{#Alt_L(F4)}",
