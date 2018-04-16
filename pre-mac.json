@@ -68,7 +68,7 @@
 "KPH-R": "{#Super_L(r)} {^}",
 "KPH-S": "{#Super_L(s)} {^}",
 "KPH-T": "{#Super_L(t)}",
-#"KR*T": "{#Super_L(Shift_L(t))}",
+"KPH*T": "{#Super_L(Shift_L(t))}",
 "KPH-BGS": "{#Super_L(x)} {^}",
 "KPH-Z": "{#Super_L(z)} {^}",
 "KPH*Z": "{#Super_L(Shift(z))} {^}"
