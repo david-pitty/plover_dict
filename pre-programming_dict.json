@@ -155,6 +155,7 @@
 
 # Control keys
 "KRA*": "{#Control_L(a)} {^}",
+"KRA*/KRA*": "{#Control_L(a)} {^}",
 "KR*E": "{#Control_L(e)} {^}",
 "K*EU": "{#Control_L(i)} {^}",
 "KRO*E": "{#Control_L(o)} {^}",
