@@ -1,10 +1,9 @@
 {
 "KH*PL": "{#Super_L(Shift_L(Home))}",
 "SP-T": "{#Super_L(Space)}",
+"S-PT": "{#Super_L(Space)}",
 
 # Outlook
-# send email
-"S-PBD": "{#Super_L(Enter)}",
 # read email
 "R-D": "{#Super_L(t)}",
 "R*D": "{#Super_L(Shift_L(t))}",
@@ -14,9 +13,9 @@
 "S*F": "{#Super_L(Shift_L(s))}",
 
 # browser navigation
+"KPH-T": "{#Super_L(t)}",
 # read as "CLose Tab"
 "KHR-T": "{#Super_L(w)}",
-"KPH-T": "{#Super_L(t)}",
 
 # Copy & Paste
 "K-P": "{#Super_L(c)}",
