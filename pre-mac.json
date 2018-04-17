@@ -1,6 +1,4 @@
 {
-"KH-PL": "{#Super_L(Left)}",
-"TKPWHR-D": "{#Super_L(Right)}",
 "KH*PL": "{#Super_L(Shift_L(Home))}",
 "SP-T": "{#Super_L(Space)}",
 
@@ -54,7 +52,7 @@
 #"KRO*E": "{#Super_L(o)} {^}",
 #"KRU": "{#Super_L(u)} {^}",
 #"KR*U": "{#Super_L(u)} {^}",
-#"KR-B": "{#Super_L(b)} {^}",
+"KPH-B": "{#Super_L(b)} {^}",
 #"KHR-BG": "{#Super_L(c)} {^}",
 #"KR-D": "{#Super_L(d)} {^}",
 "KPH-F": "{#Super_L(f)} {^}",
