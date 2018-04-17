@@ -224,6 +224,9 @@
 "KPW-T": "{PLOVER:QUIT}",
 "PHR-LG": "{PLOVER:TOGGLE}",
 "TR-PBS": "{PLOVER:ADD_TRANSLATION}",
+# suppress plover suspend and resume commands
+"PHRO*F": "{}",
+"PHROPB": "{}",
 # repeat previous stroke
 "P-": "{*+}",
 # Lower (decapitalize) last word
