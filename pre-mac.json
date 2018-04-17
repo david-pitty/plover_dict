@@ -7,6 +7,7 @@
 "S-PBD": "{#Super_L(Enter)}",
 # read email
 "R-D": "{#Super_L(t)}",
+"R*D": "{#Super_L(Shift_L(t))}",
 
 # save files
 "S-F": "{#Super_L(s)}",
