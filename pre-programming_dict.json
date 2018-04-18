@@ -37,11 +37,13 @@
 "TKPWR": "{^gc}",
 
 # Tmux commands
-"KRA*PBL": "{#Control_L(a)}o",
-"KRA*PBLG": "{#Control_L(a)}o",
-"KRA*PB": "{#Control_L(a)}n",
-"KRA*P": "{#Control_L(a)}p",
-"KRA*BG": "{#Control_L(a)}c",
+"KRAOPBL": "{#Control_L(a)} {^o^}",
+"KRAOPBLG": "{#Control_L(a)} {^o^}",
+# read  control next
+"KRAOBGT": "{#Control_L(a)} {^n^}",
+"KRAOP": "{#Control_L(a)} {^p^}",
+# read create
+"KRAOT": "{#Control_L(a)} {^c^}",
 
 # Vim commands
 "SREU": "{vi ^}",
