@@ -37,14 +37,16 @@
 "TKPWR": "{^gc}",
 
 # Tmux commands
-# read control only
+# read control oNLy
 "KRAOPBL": "{#Control_L(a)} {^o^}",
 "KRAOPBLG": "{#Control_L(a)} {^o^}",
-# read  control next
+# read  control neXT
 "KRAOBGT": "{#Control_L(a)} {^n^}",
 "KRAOP": "{#Control_L(a)} {^p^}",
-# read create
+# read creaTe
 "KRAOT": "{#Control_L(a)} {^c^}",
+# read renaMe
+"KRAOPL": "{#Control_L(a)} {^,^}",
 
 # Vim commands
 "SREU": "{vi ^}",
