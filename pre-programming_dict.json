@@ -256,6 +256,7 @@
 # dash delimited
 "TK-RBS": "{MODE:SET_SPACE:-}",
 "SHR-Z": "{MODE:SET_SPACE:/}",
+"SHR*Z": "{^/^} {MODE:SET_SPACE:/}",
 "TPH-PS": "{MODE:SET_SPACE:}",
 
 # Plover special commands
