@@ -15,7 +15,8 @@
 
 # Copy & Paste
 "K-P": "{#Control_L(c)}",
-"P-FT": "{#Shift_L(Insert)}",
+"P-FT": "{^ ^} {#Shift_L(Insert)}",
+"SP-FT": "{#Shift_L(Insert)}",
 "K-T": "{#Control_L(x)}",
 
 # Text navigation

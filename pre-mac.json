@@ -19,7 +19,8 @@
 
 # Copy & Paste
 "K-P": "{#Super_L(c)}",
-"P-FT": "{#Super_L(v)}",
+"P-FT": "{^ ^} {#Super_L(v)}",
+"SP-FT": "{#Super_L(v)}",
 "K-T": "{#Super_L(x)}",
 
 # Text navigation
