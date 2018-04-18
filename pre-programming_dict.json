@@ -189,6 +189,7 @@
 "KR-T": "{#Control_L(t)}",
 "KR*T": "{#Control_L(Shift_L(t))}",
 "KR-BGS": "{#Control_L(x)} {^}",
+"KWR-RL": "{#Control_L(y)} {^}",
 "KR-Z": "{#Control_L(z)} {^}",
 
 # Control + # key bindings for chrome/work spaces on Mac
@@ -204,6 +205,32 @@
 "KR*L/-8": "{#Control_L(8)}",
 "KR*L/-9": "{#Control_L(9)}",
 
+# Command keys
+"KPHA*": "{#Super_L(a)} {^}",
+#"KR*E": "{#Super_L(e)} {^}",
+#"K*EU": "{#Super_L(i)} {^}",
+#"KRO*E": "{#Super_L(o)} {^}",
+#"KRU": "{#Super_L(u)} {^}",
+#"KR*U": "{#Super_L(u)} {^}",
+"KPH-B": "{#Super_L(b)} {^}",
+#"KHR-BG": "{#Super_L(c)} {^}",
+#"KR-D": "{#Super_L(d)} {^}",
+"KPH-F": "{#Super_L(f)} {^}",
+#"KR-G": "{#Super_L(g)} {^}",
+"KPH-BG": "{#Super_L(k)} {^}",
+"KPH-L": "{#Super_L(l)} {^}",
+"KPH*L": "{#Super_L(Shift_L(l))} {^}",
+#"KR-PL": "{#Super_L(m)} {^}",
+"KPH-PB": "{#Super_L(n)} {^}",
+"KPH*PB": "{#Super_L(Shift_L(n))} {^}",
+"KPH-P": "{#Super_L(p)} {^}",
+"KPH-R": "{#Super_L(r)} {^}",
+"KPH-S": "{#Super_L(s)} {^}",
+"KPH-T": "{#Super_L(t)}",
+"KPH*T": "{#Super_L(Shift_L(t))}",
+"KPH-BGS": "{#Super_L(x)} {^}",
+"KPH-Z": "{#Super_L(z)} {^}",
+"KPH*Z": "{#Super_L(Shift(z))} {^}",
 
 # Sublime Text command
 "KPR*": "{#Control_L(Shift_L(p))}",
