@@ -37,6 +37,7 @@
 "TKPWR": "{^gc}",
 
 # Tmux commands
+# read control only
 "KRAOPBL": "{#Control_L(a)} {^o^}",
 "KRAOPBLG": "{#Control_L(a)} {^o^}",
 # read  control next
