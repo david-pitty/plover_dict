@@ -40,6 +40,7 @@
 # read control oNLy
 "KRAOPBL": "{#Control_L(a)} {^o^}",
 "KRAOPBLG": "{#Control_L(a)} {^o^}",
+"KRAOBL": "{#Control_L(a)} {^o^}",
 # read  control neXT
 "KRAOBGT": "{#Control_L(a)} {^n^}",
 "KRAOP": "{#Control_L(a)} {^p^}",
@@ -47,6 +48,9 @@
 "KRAOT": "{#Control_L(a)} {^c^}",
 # read renaMe
 "KRAOPL": "{#Control_L(a)} {^,^}",
+# splits
+"KRAOF": "{#Control_L(a)} {^v^}",
+"KRAOS": "{#Control_L(a)} {^s^}",
 
 # Vim commands
 "SREU": "{vi ^}",
