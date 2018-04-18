@@ -211,7 +211,7 @@
 
 # Command keys
 "KPHA*": "{#Super_L(a)} {^}",
-#"KR*E": "{#Super_L(e)} {^}",
+"KPH*E": "{#Super_L(e)} {^}",
 #"K*EU": "{#Super_L(i)} {^}",
 #"KRO*E": "{#Super_L(o)} {^}",
 #"KRU": "{#Super_L(u)} {^}",
