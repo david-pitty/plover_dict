@@ -74,7 +74,7 @@
 # Enter insert mode cleanly
 "EUZ": "{^i^}",
 # Leader key
-"HR-D": "{^`&}",
+"HR-D": "{^\\&}",
 # Change inner word
 "KWORD": "{^ciw^}",
 "SKWORD": "{^cw^}",
