@@ -51,6 +51,11 @@
 # splits
 "KRAOF": "{#Control_L(a)} {^v^}",
 "KRAOS": "{#Control_L(a)} {^s^}",
+# read searCH
+"KRAOFP": "{#Control_L(a)} {^[^}",
+"KRAOFRPB": "{#Control_L(a)} {^[^}",
+# read paSTe
+"KRAOFT": "{#Control_L(a)} {^]^}",
 
 # Vim commands
 "SREU": "{vi ^}",
