@@ -62,7 +62,7 @@
 "SREUPL": "vim",
 # window management in vim
 "SR-PL": "{#Control_L(w)}",
-"KR*F": "{#Control_L(Shift_L(f)}",
+"KR*F": "{#Control_L(Shift_L(f))}",
 # visual block
 "SR-B": "{#Control_L(v)}",
 "KR*PB": "{#Control_L(Shift_L(n))}",
