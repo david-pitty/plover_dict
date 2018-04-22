@@ -84,6 +84,9 @@
 "SKWORD": "{^cw^}",
 # Change in
 "KR-EU": "{^ci^}",
+# Yank in
+"KWR*EU": "{^yi^}",
+"*SZ": "{^zz^}",
 "T-P": "{^gg^}",
 
 # Symbols
@@ -118,7 +121,9 @@
 "T-LD": "{^~^}",
 "ST-LD": "{~^}",
 "R-T": "{&>}",
+"R-TS": "{&>>}",
 "HR-T": "{&<}",
+"HR-TS": "{&<<}",
 "H-RB": "{^#}",
 "SH-RB": "{^ #}",
 "TK-RL": "{^$^}",
@@ -170,7 +175,7 @@
 "TKHR-D": "{#Delete} {^}",
 "STKHR-T": "{#Shift_L(Delete)}",
 # suppress space after return
-"R-R": "{#Return} {^}",
+"R-R": "{MODE:RESET} {#Return} {^}",
 # return for writing (first word capitalized)
 "R*R": "{#Return} {^} {-|}",
 
