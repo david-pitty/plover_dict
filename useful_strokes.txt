@@ -20,4 +20,5 @@ WI: which
 RAIR (RAOEUR): require
 EWFL: useful
 WEER (WAOER): we're
+WH-L: while
 NAO: into
