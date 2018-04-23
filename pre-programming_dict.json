@@ -70,8 +70,8 @@
 # toggle nerd tree
 "TRAO*E": "{#Control_L(k)} {#Control_L(b)} {^}",
 # easier way to type Z for faster save and quit
-"*Z": "{&Z}",
-"P*Z": "{^ZZ}",
+"*Z": "{^ZZ^}",
+"KW*Z": "{^ZQ^}",
 # Enter insert mode cleanly
 "EUZ": "{^i^}",
 "OZ": "{^o^}",
