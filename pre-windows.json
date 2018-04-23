@@ -12,6 +12,7 @@
 # browser navigation
 # read as "CLose Tab"
 "KHR-T": "{#Control_L(w)}",
+"KHR*T": "{#Control_L(Shift_L(w))}",
 
 # Copy & Paste
 "K-P": "{#Control_L(c)}",

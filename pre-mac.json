@@ -16,6 +16,7 @@
 "KPH-T": "{#Super_L(t)}",
 # read as "CLose Tab"
 "KHR-T": "{#Super_L(w)}",
+"KHR*T": "{#Super_L(Shift_L(w))}",
 
 # Copy & Paste
 "K-P": "{#Super_L(c)}",
