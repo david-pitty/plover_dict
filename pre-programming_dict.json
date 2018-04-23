@@ -78,7 +78,7 @@
 "AZ": "{^a^}",
 "A*Z": "{^A^}",
 # Leader key
-"HR-D": "{^\\&}",
+"HR-D": "{^\\^}",
 # Change inner word
 "KWORD": "{^ciw^}",
 "SKWORD": "{^cw^}",
