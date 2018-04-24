@@ -28,15 +28,6 @@
 "PW*FP": "{#Alt_L(BackSpace)} {^}",
 "TKHR*T": "{#Alt_L(Delete)} {^}",
 
-# Work space navigation, currently not working :(
-#"W-D": "{}",
-#"W-D/1": "{#Control_L(1)}",
-#"W-D/2": "{#Control_L(2)}",
-#"W-D/3": "{#Control_L(3)}",
-#"W-D/4": "{#Control_L(4)}",
-#"W-D/5": "{#Control_L(5)}",
-#"W-D/6": "{#Control_L(6)}",
-
 # Close an application
 "KHR-S": "{#Super_L(q)}",
 
