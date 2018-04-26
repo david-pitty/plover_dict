@@ -12,7 +12,7 @@
 "PEUB": "pyb",
 "TKPWEUT": "git",
 "HR*PB": "ln",
-"K-D": "{cd ^}",
+"K-D": "{cd ^}{MODE:SET_SPACE:/}",
 "R-PL": "{rm ^}",
 "PH-F": "{mv ^}",
 "S-RB": "{ssh ^}",
