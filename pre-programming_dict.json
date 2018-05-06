@@ -32,11 +32,6 @@
 # Personal user
 "SP-R": "{^david-pitty^}",
 
-# Git commands
-"TKPWA*": "{^gga}",
-"TKPWRA*": "{^gga}",
-"TKPWR": "{^gc}",
-
 # Tmux commands
 # read control oNLy
 "KRAOPBL": "{#Control_L(a)} {^o^}",
