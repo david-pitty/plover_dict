@@ -179,6 +179,7 @@
 "STKHR-T": "{#Shift_L(Delete)}",
 # suppress space after return
 "R-R": "{MODE:RESET} {#Return} {^}",
+"R-RS": "{#Return} {#Return} {^}",
 # return for writing (first word capitalized)
 "R*R": "{#Return} {^} {-|}",
 "R*RS": "{#Return} {#Return} {^} {-|}",
