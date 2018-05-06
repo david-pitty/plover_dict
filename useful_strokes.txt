@@ -6,6 +6,7 @@ TWEEN (TWAOEPB): between
 L-RD: already
 GEN: again
 -FR: ever
+EEEN (AOEPB): even
 H: had
 TO: to (instead of O to avoid resolving to other words)
 TPH: in (instead of IN, which is the prefix in-)
