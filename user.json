@@ -1,5 +1,5 @@
 {
-"*F": "'ve",
+"*F": "{^'ve}",
 "*FP/TPOD": "chmod",
 "-L": "{^'ll}",
 "-PBL": "only",
@@ -128,6 +128,7 @@
 "KHR*EU": "cli",
 "KHRAFS/KAEUGS": "classification",
 "KO*EFR": "cover",
+"KO*F": "could've",
 "KO*FPB": "conf",
 "KO*FRPB": "conf",
 "KO*PL/PHAOEUS": "compromise",
