@@ -52,6 +52,7 @@
 "KRAOFRPB": "{#Control_L(a)} {^[^}",
 # read paSTe
 "KRAOFT": "{#Control_L(a)} {^]^}",
+"KRAOPT": "{#Control_L(a)} {^]^}",
 
 # Vim commands
 "SREU": "{vi ^}",
