@@ -12,6 +12,7 @@ Commands:
 Symbols:
 	*P: (.) textual period
 	*PS: ( .) space + period
+	LPS: (...) elLiPsiS
 	Q-K: (,) textual comma
 	-BGS: (,) textual comma
 	*R: (^,^) command comma (all spaces suppessed)
