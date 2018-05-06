@@ -37,7 +37,7 @@
 "KRAOPBL": "{#Control_L(a)} {^o^}",
 "KRAOPBLG": "{#Control_L(a)} {^o^}",
 "KRAOBL": "{#Control_L(a)} {^o^}",
-# read  control neXT
+# read control neXT
 "KRAOBGT": "{#Control_L(a)} {^n^}",
 "KRAOP": "{#Control_L(a)} {^p^}",
 # read creaTe
@@ -58,6 +58,8 @@
 "KRAOR": "{#Control_L(a)} {^j^}",
 "KRAOB": "{#Control_L(a)} {^k^}",
 "KRAOG": "{#Control_L(a)} {^l^}",
+# detach from session
+"KRAOD": "{#Control_L(a)} {^d^}",
 
 # Vim commands
 "SREU": "{vi ^}{MODE:SET_SPACE:/}",
@@ -89,6 +91,7 @@
 # Delete
 "TKEU": "{^di^}",
 "TK-T": "{^dt^}",
+"TK*F": "{^df^}",
 "TK-D": "{^dd^}",
 "TK-Z": "{^dd^}",
 "TK*Z": "{^dd^}",
