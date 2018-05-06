@@ -53,6 +53,11 @@
 # read paSTe
 "KRAOFT": "{#Control_L(a)} {^]^}",
 "KRAOPT": "{#Control_L(a)} {^]^}",
+# move between panes vim style
+"KRAO*": "{#Control_L(a)} {^h^}",
+"KRAOR": "{#Control_L(a)} {^j^}",
+"KRAOB": "{#Control_L(a)} {^k^}",
+"KRAOG": "{#Control_L(a)} {^l^}",
 
 # Vim commands
 "SREU": "{vi ^}",
@@ -72,17 +77,29 @@
 "EUZ": "{^i^}",
 "*EUZ": "{^I^}",
 "OZ": "{^o^}",
+"O*Z": "{^O^}",
 "AZ": "{^a^}",
 "A*Z": "{^A^}",
 # Leader key
 "HR-D": "{^\\^}",
 # Change inner word
-"KWORD": "{^ciw^}",
-"SKWORD": "{^cw^}",
+"KWORD": "{^cw^}",
 # Change in
 "KR-EU": "{^ci^}",
-# Yank in
+# Delete
+"TKEU": "{^di^}",
+"TK-T": "{^dt^}",
+"TK-D": "{^dd^}",
+"TK-Z": "{^dd^}",
+"TK*Z": "{^dd^}",
+# Find
+"KR-EU": "{^fi^}",
+# Yank
 "KWR*EU": "{^yi^}",
+"KWR*Z": "{^yy^}",
+"KWR*PZ": "{^yyp^}",
+"KWR*PS": "{^yyp^}",
+# Cursor relocation
 "*SZ": "{^zz^}",
 "-TZ": "{^zt^}",
 "T-P": "{^gg^}",
