@@ -60,7 +60,7 @@
 "KRAOG": "{#Control_L(a)} {^l^}",
 
 # Vim commands
-"SREU": "{vi ^}",
+"SREU": "{vi ^}{MODE:SET_SPACE:/}",
 "SREUPL": "vim",
 # window management in vim
 "SR-PL": "{#Control_L(w)}",
@@ -92,8 +92,6 @@
 "TK-D": "{^dd^}",
 "TK-Z": "{^dd^}",
 "TK*Z": "{^dd^}",
-# Find
-"KR-EU": "{^fi^}",
 # Yank
 "KWR*EU": "{^yi^}",
 "KWR*Z": "{^yy^}",
