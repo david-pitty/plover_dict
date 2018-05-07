@@ -32,7 +32,7 @@
 "KHR-S": "{#Super_L(q)}",
 
 # show all apps
-"T-BZ": "{#Control_L(Super_L(Up))}"
+"T-BZ": "{#Super_L(Tab)}"
 
 
 ###########

@@ -86,12 +86,14 @@
 "HR-D": "{^\\^}",
 # Change inner word
 "KWORD": "{^cw^}",
-# Change in
+# Change
 "KR-EU": "{^ci^}",
+"K-LT": "{^ct^}",
+"K-F": "{^cf^}",
 # Delete
 "TKEU": "{^di^}",
 "TK-T": "{^dt^}",
-"TK*F": "{^df^}",
+"TK-F": "{^df^}",
 "TK-D": "{^dd^}",
 "TK-Z": "{^dd^}",
 "TK*Z": "{^dd^}",
