@@ -33,24 +33,24 @@
 "SP-R": "{^david-pitty^}",
 
 # Tmux commands
-# read control oNLy
+# mnemonic hook: control oNLy
 "KRAOPBL": "{#Control_L(a)} {^o^}",
 "KRAOPBLG": "{#Control_L(a)} {^o^}",
 "KRAOBL": "{#Control_L(a)} {^o^}",
-# read control neXT
+# mnemonic hook: control neXT
 "KRAOBGT": "{#Control_L(a)} {^n^}",
 "KRAOP": "{#Control_L(a)} {^p^}",
-# read creaTe
+# mnemonic hook: creaTe
 "KRAOT": "{#Control_L(a)} {^c^}",
-# read renaMe
+# mnemonic hook: renaMe
 "KRAOPL": "{#Control_L(a)} {^,^}",
 # splits
 "KRAOF": "{#Control_L(a)} {^v^}",
 "KRAOS": "{#Control_L(a)} {^s^}",
-# read searCH
+# mnemonic hook: searCH
 "KRAOFP": "{#Control_L(a)} {^[^}",
 "KRAOFRPB": "{#Control_L(a)} {^[^}",
-# read paSTe
+# mnemonic hook: paSTe
 "KRAOFT": "{#Control_L(a)} {^]^}",
 "KRAOPT": "{#Control_L(a)} {^]^}",
 # move between panes vim style
@@ -109,6 +109,7 @@
 
 # Symbols
 "SHR-RB": "{^/^}",
+"SHR-RBZ": "{^//}",
 "SHR-RBS": "{^ /^}",
 "SHR*RB": "{^\\^}",
 "SHR*RBS": "{^ \\^}",
@@ -292,6 +293,12 @@
 
 # Sublime Text command
 "KPR*": "{#Control_L(Shift_L(p))}",
+
+# Movement keys
+"STPH-FPL": "{#Page_Up}",
+"STPH-RBG": "{#Page_Down}",
+"SKWR-FPL": "{#Shift_L(Page_Up)}",
+"SKWR-RBG": "{#Shift_L(Page_Down)}",
 
 # Modes
 "R-FT": "{MODE:RESET}",
