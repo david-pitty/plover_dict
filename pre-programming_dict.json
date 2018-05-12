@@ -46,7 +46,7 @@
 "KRAOPL": "{#Control_L(a)} {^,^}",
 # splits
 "KRAOF": "{#Control_L(a)} {^v^}",
-"KRAOS": "{#Control_L(a)} {^s^}",
+"KRAOZ": "{#Control_L(a)} {^s^}",
 # mnemonic hook: searCH
 "KRAOFP": "{#Control_L(a)} {^[^}",
 "KRAOFRPB": "{#Control_L(a)} {^[^}",
@@ -54,10 +54,10 @@
 "KRAOFT": "{#Control_L(a)} {^]^}",
 "KRAOPT": "{#Control_L(a)} {^]^}",
 # move between panes vim style
-"KRAO*": "{#Control_L(a)} {^h^}",
-"KRAOR": "{#Control_L(a)} {^j^}",
-"KRAOB": "{#Control_L(a)} {^k^}",
-"KRAOG": "{#Control_L(a)} {^l^}",
+"KRAOR": "{#Control_L(a)} {^h^}",
+"KRAOB": "{#Control_L(a)} {^j^}",
+"KRAOG": "{#Control_L(a)} {^k^}",
+"KRAOS": "{#Control_L(a)} {^l^}",
 # detach from session
 "KRAOD": "{#Control_L(a)} {^d^}",
 
@@ -295,6 +295,10 @@
 "KPR*": "{#Control_L(Shift_L(p))}",
 
 # Movement keys
+"SKWR-R": "{}{^h^}",
+"SKWR-B": "{}{^j^}",
+"SKWR-G": "{}{^k^}",
+"SKWR-S": "{}{^l^}",
 "STPH-FPL": "{#Page_Up}",
 "STPH-RBG": "{#Page_Down}",
 "SKWR-FPL": "{#Shift_L(Page_Up)}",
